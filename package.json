@@ -123,10 +123,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": [
-        "lint-staged",
-        "write-good"
-      ]
+      "pre-commit": "yarn lint-staged && yarn write-good"
     }
   }
 }
