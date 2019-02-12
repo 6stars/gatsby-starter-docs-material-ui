@@ -1,6 +1,6 @@
 ---
 title: Sample Guide
-cover: /upload/contemplative-reptile.jpg
+cover: /upload/cat.jpg
 description: A Sample Guide for Markdown Syntax to Create Docs
 date: 2019-01-07T06:00:00.000Z
 route: /guides/sample-guide

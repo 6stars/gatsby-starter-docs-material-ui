@@ -57,7 +57,7 @@ module.exports = {
     //   options: {
     //     root: './', // <- will be used as a root dir
     //     alias: {
-    //       '@m00n/gatsby-docs-ui': '../packages/gatsby-docs-ui/src',
+    //       '@m00n/gatsby-docs-ui': '../packages/@m00n/gatsby-docs-ui/src',
     //       '@m00n/gatsby-plugin-nav-tree':
     //         '../packages/gatsby-plugin-nav-tree/src',
     //     },

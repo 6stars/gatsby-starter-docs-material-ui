@@ -1,15 +1,14 @@
 ---
-title: Learning Javascript and React
-cover: AWESOME REACT
-description: A collection of resources for learning React
+title: Learning GraphQL
+cover: /upload/valley.jpg
+description: A collection of resources for learning GraphQL
 date: 2019-01-08T06:00:00.000Z
-route: /learn/javascript-react
-slug: javascript-react
+route: /learn/graphql
+slug: learn_graphql
 category: learn
 tags:
-  - learn
-  - javacript
-  - react
+  - guide
+  - graphql
 ---
 
 ## Learn in a Sandbox

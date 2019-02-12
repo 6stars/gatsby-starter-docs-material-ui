@@ -1,0 +1,4004 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "C:/react/6stars/gatsby-starter-docs-material-ui/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "12954a326ac003a5d235c9f6c0c4a629",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1b8f2a02551e57ec72171dbc5d12db0b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b28f9797fb6f47e974029857f89bf3c9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "dbef68f4331bd3597012779334a96d13",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c83e63e2c5d8711f8ecea31cf1c429b0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4df2a04bf9954cc8a682549e6caa6012",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "bf7e1c188fd3680a23eaa21611630d06",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6baed434-a608-5e80-ba69-fa94fef95ec5": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-plugin-typescript",
+      "id": "6baed434-a608-5e80-ba69-fa94fef95ec5",
+      "name": "gatsby-plugin-typescript",
+      "version": "2.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "resolvableExtensions",
+        "onCreateBabelConfig",
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-plugin-typescript",
+      "packageJson": {
+        "name": "gatsby-plugin-typescript",
+        "description": "Adds TypeScript support to Gatsby",
+        "version": "2.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "typescript"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/preset-typescript",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-plugin-remove-graphql-queries",
+            "version": "^2.0.2-rc.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c3a877608ab5192351da99561d963af2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "4e16d3a0-81e9-5576-9498-018e120406f4": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/@m00n/gatsby-plugin-nav-tree",
+      "id": "4e16d3a0-81e9-5576-9498-018e120406f4",
+      "name": "@m00n/gatsby-plugin-nav-tree",
+      "version": "0.6.0",
+      "pluginOptions": {
+        "plugins": [],
+        "ignorePaths": [
+          "/categories",
+          "/tags",
+          "/404",
+          "/offline-plugin-app-shell-fallback",
+          "/dev-404-page"
+        ]
+      },
+      "nodeAPIs": [
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/@m00n/gatsby-plugin-nav-tree",
+      "packageJson": {
+        "name": "@m00n/gatsby-plugin-nav-tree",
+        "description": "Gatsby Plugin to Auto Generate Nested Page Tree for Left Nav",
+        "version": "0.6.0",
+        "keywords": [
+          "gatsby",
+          "plugin",
+          "page",
+          "nav",
+          "tree"
+        ],
+        "author": "Adam Moon <adam@amoon.space>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "treeify-paths",
+            "version": "1.0.1"
+          },
+          {
+            "name": "typescript",
+            "version": "3.1.6"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "579b51211717856e36443215a9cde7ba",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a4157f5937c653d01249e4b0d6db689e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "0c7688ef-0ff5-529a-ab7c-7edcaf5c8ea2": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-plugin-lodash",
+      "id": "0c7688ef-0ff5-529a-ab7c-7edcaf5c8ea2",
+      "name": "gatsby-plugin-lodash",
+      "version": "3.0.1",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig",
+        "onCreateBabelConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-plugin-lodash",
+      "packageJson": {
+        "name": "gatsby-plugin-lodash",
+        "description": "Easy modular Lodash builds. Adds the Lodash webpack & Babel plugins to your Gatsby build",
+        "version": "3.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-plugin-lodash",
+            "version": "^3.2.11"
+          },
+          {
+            "name": "lodash-webpack-plugin",
+            "version": "^0.11.5"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ad35cea5f94e18c5cf57a5550ddd5e74",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "ce16334a-d2b8-51f9-b4ba-6d1b949658cb": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-source-filesystem",
+      "id": "ce16334a-d2b8-51f9-b4ba-6d1b949658cb",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "docs",
+        "path": "C:\\react\\6stars\\gatsby-starter-docs-material-ui/content"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.5",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4d79a6a737f29794258e5eccfe1cdb47",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "e9127369-c7c8-5d4d-993a-66f4900b4c2c": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-transformer-remark",
+      "id": "e9127369-c7c8-5d4d-993a-66f4900b4c2c",
+      "name": "gatsby-transformer-remark",
+      "version": "2.1.9",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-sequence",
+            "id": "3b315de8-8588-5460-a855-5dc31f7001f1",
+            "name": "gatsby-remark-sequence",
+            "version": "0.0.2",
+            "pluginOptions": {
+              "plugins": [],
+              "theme": "simple"
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [
+              "onInitialClientRender"
+            ],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-sequence"
+          },
+          {
+            "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-embed-youtube",
+            "id": "81e4d362-e367-558d-ac2a-e03fab7b46d2",
+            "name": "gatsby-remark-embed-youtube",
+            "version": "0.0.7",
+            "pluginOptions": {
+              "plugins": [],
+              "width": 1000,
+              "height": 400
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-embed-youtube"
+          },
+          {
+            "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-relative-images",
+            "id": "46bd1896-257f-5076-b73b-7e4836aab9a7",
+            "name": "gatsby-remark-relative-images",
+            "version": "0.2.0",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-relative-images"
+          },
+          {
+            "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-images",
+            "id": "06f57d29-121b-5352-abe8-e976069f7d5d",
+            "name": "gatsby-remark-images",
+            "version": "2.0.4",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 672,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "linkImagesToOriginal": true,
+              "showCaptions": false,
+              "pathPrefix": "/docs",
+              "withWebp": false
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-responsive-iframe",
+            "id": "14fa90d3-ae84-54a3-bb14-8c56bdcaa86e",
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "2.0.5",
+            "pluginOptions": {
+              "plugins": [],
+              "wrapperStyle": ""
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-responsive-iframe"
+          },
+          {
+            "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-prismjs",
+            "id": "d13151dc-fd64-50b0-b768-6beaa40f02ac",
+            "name": "gatsby-remark-prismjs",
+            "version": "3.0.2",
+            "pluginOptions": {
+              "plugins": [],
+              "classPrefix": "language-",
+              "inlineCodeMarker": null,
+              "aliases": {},
+              "showLineNumbers": false,
+              "noInlineHighlight": false
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-prismjs"
+          },
+          {
+            "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-copy-linked-files",
+            "id": "80533a5b-ad2d-50ff-af51-726674869458",
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "2.0.5",
+            "pluginOptions": {
+              "plugins": [],
+              "ignoreFileExtensions": [
+                "png",
+                "jpg",
+                "jpeg",
+                "bmp",
+                "tiff"
+              ]
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-copy-linked-files"
+          },
+          {
+            "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-autolink-headers",
+            "id": "df380aaa-460e-51a2-8830-e6712dc1f436",
+            "name": "gatsby-remark-autolink-headers",
+            "version": "2.0.8",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [
+              "onClientEntry",
+              "onRouteUpdate"
+            ],
+            "ssrAPIs": [
+              "onRenderBody"
+            ],
+            "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-autolink-headers"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.1.9",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "bc9533017d0c4bbf1ae677132d716438",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "3b315de8-8588-5460-a855-5dc31f7001f1": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-sequence",
+      "id": "3b315de8-8588-5460-a855-5dc31f7001f1",
+      "name": "gatsby-remark-sequence",
+      "version": "0.0.2",
+      "pluginOptions": {
+        "plugins": [],
+        "theme": "simple"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onInitialClientRender"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-sequence",
+      "packageJson": {
+        "name": "gatsby-remark-sequence",
+        "description": "Make nice graphs in your markdown files in gatsbyjs, using flowchart",
+        "version": "0.0.2",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "graph",
+          "js-sequence-diagrams",
+          "remark"
+        ],
+        "author": "Donghua Liu <liudonghua123@gmail.com> (http://liudonghua.com)",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.3"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "fe6179e8fef3fc246d0302b8119d33e8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "81e4d362-e367-558d-ac2a-e03fab7b46d2": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-embed-youtube",
+      "id": "81e4d362-e367-558d-ac2a-e03fab7b46d2",
+      "name": "gatsby-remark-embed-youtube",
+      "version": "0.0.7",
+      "pluginOptions": {
+        "plugins": [],
+        "width": 1000,
+        "height": 400
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-embed-youtube",
+      "packageJson": {
+        "name": "gatsby-remark-embed-youtube",
+        "description": "Embed Youtube Videos in Gatsby via Markdown",
+        "version": "0.0.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": "Marvin Mieth <ntwcklng@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ab9863bd46072cae476e012b0d43ff5d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "46bd1896-257f-5076-b73b-7e4836aab9a7": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-relative-images",
+      "id": "46bd1896-257f-5076-b73b-7e4836aab9a7",
+      "name": "gatsby-remark-relative-images",
+      "version": "0.2.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-relative-images",
+      "packageJson": {
+        "name": "gatsby-remark-relative-images",
+        "description": "Convert image src(s) in markdown to be relative to their node's parent directory. This will help gatsby-remark-images match images outside the node folder. For example, use with NetlifyCMS.",
+        "version": "0.2.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "relative",
+          "netlifycms",
+          "remark",
+          "responsive images"
+        ],
+        "author": "Daniel Mahon <daniel@mahonstudios.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-polyfill",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "1.0.0-rc.2"
+          },
+          {
+            "name": "deep-map",
+            "version": "1.5.0"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "4.17.5"
+          },
+          {
+            "name": "slash",
+            "version": "2.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "1.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "7.0.0-beta.44"
+          },
+          {
+            "name": "@babel/core",
+            "version": "7.0.0-beta.44"
+          },
+          {
+            "name": "@babel/preset-env",
+            "version": "7.0.0-beta.44"
+          },
+          {
+            "name": "cross-env",
+            "version": "5.1.4"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a26ddc01cfefa5e55a4b4c668526e315",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "06f57d29-121b-5352-abe8-e976069f7d5d": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-images",
+      "id": "06f57d29-121b-5352-abe8-e976069f7d5d",
+      "name": "gatsby-remark-images",
+      "version": "2.0.4",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 672,
+        "wrapperStyle": "",
+        "backgroundColor": "white",
+        "linkImagesToOriginal": true,
+        "showCaptions": false,
+        "pathPrefix": "/docs",
+        "withWebp": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "2.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit-parents",
+            "version": "^2.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.5"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "bfa657572db316cd3c8adebae6ed00a8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "14fa90d3-ae84-54a3-bb14-8c56bdcaa86e": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-responsive-iframe",
+      "id": "14fa90d3-ae84-54a3-bb14-8c56bdcaa86e",
+      "name": "gatsby-remark-responsive-iframe",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "wrapperStyle": ""
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-responsive-iframe",
+      "packageJson": {
+        "name": "gatsby-remark-responsive-iframe",
+        "description": "Make iframes in Markdown processed by Remark responsive",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "unist-util-find",
+            "version": "^1.0.1"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e31b651fc2edf22cacfd979713765902",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d13151dc-fd64-50b0-b768-6beaa40f02ac": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-prismjs",
+      "id": "d13151dc-fd64-50b0-b768-6beaa40f02ac",
+      "name": "gatsby-remark-prismjs",
+      "version": "3.0.2",
+      "pluginOptions": {
+        "plugins": [],
+        "classPrefix": "language-",
+        "inlineCodeMarker": null,
+        "aliases": {},
+        "showLineNumbers": false,
+        "noInlineHighlight": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-prismjs",
+      "packageJson": {
+        "name": "gatsby-remark-prismjs",
+        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
+        "version": "3.0.2",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "parse-numeric-range",
+            "version": "^0.0.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "75f118f9b9e696234afd03bdcc3757bf",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "80533a5b-ad2d-50ff-af51-726674869458": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-copy-linked-files",
+      "id": "80533a5b-ad2d-50ff-af51-726674869458",
+      "name": "gatsby-remark-copy-linked-files",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "ignoreFileExtensions": [
+          "png",
+          "jpg",
+          "jpeg",
+          "bmp",
+          "tiff"
+        ]
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-copy-linked-files",
+      "packageJson": {
+        "name": "gatsby-remark-copy-linked-files",
+        "description": "Find files which are linked to from markdown and copy them to the public directory",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "path-is-inside",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d8a25288d3816705c3ff051174082b93",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "df380aaa-460e-51a2-8830-e6712dc1f436": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-autolink-headers",
+      "id": "df380aaa-460e-51a2-8830-e6712dc1f436",
+      "name": "gatsby-remark-autolink-headers",
+      "version": "2.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onClientEntry",
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-remark-autolink-headers",
+      "packageJson": {
+        "name": "gatsby-remark-autolink-headers",
+        "description": "Gatsby plugin to autolink headers in markdown processed by Remark",
+        "version": "2.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "github-slugger",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "mdast-util-to-string",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c59a54166e9a5e9f66ba68ab7e000da0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.5",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1eb1a8e91f5fe4929f85ace85da15e55",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1279dc5e1e78a6c5d223a87a6f56e01c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f953f376-ae5d-5867-985e-a50fa1951894": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-plugin-manifest",
+      "id": "f953f376-ae5d-5867-985e-a50fa1951894",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "6star DOCs",
+        "short_name": "6star Specs",
+        "description": "for 6star Design Specs",
+        "start_url": "/docs",
+        "background_color": "#334058",
+        "theme_color": "#6ec5ff",
+        "display": "standalone",
+        "icons": [
+          {
+            "src": "android/android-launchericon-512-512.png",
+            "sizes": "512x512"
+          },
+          {
+            "src": "android/android-launchericon-192-192.png",
+            "sizes": "192x192"
+          },
+          {
+            "src": "android/android-launchericon-144-144.png",
+            "sizes": "144x144"
+          },
+          {
+            "src": "android/android-launchericon-96-96.png",
+            "sizes": "96x96"
+          },
+          {
+            "src": "android/android-launchericon-72-72.png",
+            "sizes": "72x72"
+          },
+          {
+            "src": "android/android-launchericon-48-48.png",
+            "sizes": "48x48"
+          },
+          {
+            "src": "ios/ios-appicon-1024-1024.png",
+            "sizes": "1024x1024"
+          },
+          {
+            "src": "ios/ios-appicon-180-180.png",
+            "sizes": "180x180"
+          },
+          {
+            "src": "ios/ios-appicon-152-152.png",
+            "sizes": "152x152"
+          },
+          {
+            "src": "ios/ios-appicon-120-120.png",
+            "sizes": "120x120"
+          },
+          {
+            "src": "ios/ios-appicon-76-76.png",
+            "sizes": "76x76"
+          },
+          {
+            "src": "ios/ios-launchimage-750-1334.png",
+            "sizes": "750x1334"
+          },
+          {
+            "src": "ios/ios-launchimage-1334-750.png",
+            "sizes": "1334x750"
+          },
+          {
+            "src": "ios/ios-launchimage-1242-2208.png",
+            "sizes": "1242x2208"
+          },
+          {
+            "src": "ios/ios-launchimage-2208-1242.png",
+            "sizes": "2208x1242"
+          },
+          {
+            "src": "ios/ios-launchimage-640-960.png",
+            "sizes": "640x960"
+          },
+          {
+            "src": "ios/ios-launchimage-640-1136.png",
+            "sizes": "640x1136"
+          },
+          {
+            "src": "ios/ios-launchimage-1536-2048.png",
+            "sizes": "1536x2048"
+          },
+          {
+            "src": "ios/ios-launchimage-2048-1536.png",
+            "sizes": "2048x1536"
+          },
+          {
+            "src": "ios/ios-launchimage-768-1024.png",
+            "sizes": "768x1024"
+          },
+          {
+            "src": "ios/ios-launchimage-1024-768.png",
+            "sizes": "1024x768"
+          },
+          {
+            "src": "chrome/chrome-extensionmanagementpage-48-48.png",
+            "sizes": "48x48"
+          },
+          {
+            "src": "chrome/chrome-favicon-16-16.png",
+            "sizes": "16x16"
+          },
+          {
+            "src": "chrome/chrome-installprocess-128-128.png",
+            "sizes": "128x128"
+          },
+          {
+            "src": "firefox/firefox-marketplace-512-512.png",
+            "sizes": "512x512"
+          },
+          {
+            "src": "firefox/firefox-marketplace-128-128.png",
+            "sizes": "128x128"
+          },
+          {
+            "src": "firefox/firefox-general-256-256.png",
+            "sizes": "256x256"
+          },
+          {
+            "src": "firefox/firefox-general-128-128.png",
+            "sizes": "128x128"
+          },
+          {
+            "src": "firefox/firefox-general-90-90.png",
+            "sizes": "90x90"
+          },
+          {
+            "src": "firefox/firefox-general-64-64.png",
+            "sizes": "64x64"
+          },
+          {
+            "src": "firefox/firefox-general-48-48.png",
+            "sizes": "48x48"
+          },
+          {
+            "src": "firefox/firefox-general-32-32.png",
+            "sizes": "32x32"
+          },
+          {
+            "src": "firefox/firefox-general-16-16.png",
+            "sizes": "16x16"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c546abc59d012a161239a9e83a3700c2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "63e5f7ff-e5f1-58f7-8e2c-55872ac42281": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-plugin-offline",
+      "id": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "name": "gatsby-plugin-offline",
+      "version": "2.0.18",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "browserAPIs": [
+        "registerServiceWorker",
+        "onServiceWorkerActive",
+        "onPostPrefetchPathname"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "2.0.18",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "idb-keyval",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "workbox-build",
+            "version": "^3.6.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">=2.0.53"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a382ef569e767da56aaab88b3cfe690b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "11e385fe-1a46-57a7-b928-692b96b601fe": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-plugin-netlify-cms",
+      "id": "11e385fe-1a46-57a7-b928-692b96b601fe",
+      "name": "gatsby-plugin-netlify-cms",
+      "version": "3.0.9",
+      "pluginOptions": {
+        "plugins": [],
+        "modulePath": "C:\\react\\6stars\\gatsby-starter-docs-material-ui/src/cms/cms.js"
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [
+        "onInitialClientRender"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-plugin-netlify-cms",
+      "packageJson": {
+        "name": "gatsby-plugin-netlify-cms",
+        "description": "A Gatsby plugin which generates the Netlify CMS single page app",
+        "version": "3.0.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "netlify",
+          "netlify-cms",
+          "cms"
+        ],
+        "author": "Shawn Erquhart <shawn@erquh.art>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "friendly-errors-webpack-plugin",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "html-webpack-exclude-assets-plugin",
+            "version": "^0.0.7"
+          },
+          {
+            "name": "html-webpack-plugin",
+            "version": "^3.2.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-css-extract-plugin",
+            "version": "^0.4.1"
+          },
+          {
+            "name": "netlify-identity-widget",
+            "version": "^1.4.11"
+          },
+          {
+            "name": "webpack",
+            "version": "^4.16.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "react",
+            "version": "^16.4.1"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.4.1"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0-beta.29"
+          },
+          {
+            "name": "netlify-cms",
+            "version": "^2.0.6"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "254403634ca5cfbdebf2c132d7dd37a7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "6dbc4f2102c7f1f34bf1bc124ec73e59",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "wrapRootElement"
+      ],
+      "ssrAPIs": [
+        "wrapRootElement",
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui",
+      "packageJson": {
+        "name": "gatsby-starter-docs-material-ui",
+        "description": "Gatsby Starter Documentation Site using material-ui and jss",
+        "version": "0.0.1",
+        "keywords": [
+          "gatsby",
+          "starter",
+          "docs",
+          "material-ui"
+        ],
+        "author": "Adam Moon <adam@amoon.space>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/core",
+            "version": "7.2.2"
+          },
+          {
+            "name": "@m00n/gatsby-docs-ui",
+            "version": "^1.6.1"
+          },
+          {
+            "name": "@m00n/gatsby-plugin-nav-tree",
+            "version": "^0.6.0"
+          },
+          {
+            "name": "@material-ui/core",
+            "version": "3.7.0"
+          },
+          {
+            "name": "@material-ui/docs",
+            "version": "3.0.0-alpha.8"
+          },
+          {
+            "name": "@material-ui/icons",
+            "version": "3.0.1"
+          },
+          {
+            "name": "@material-ui/styles",
+            "version": "3.0.0-alpha.7"
+          },
+          {
+            "name": "babel-polyfill",
+            "version": "6.26.0"
+          },
+          {
+            "name": "core-js",
+            "version": "2.5.7"
+          },
+          {
+            "name": "date-fns",
+            "version": "1.30.1"
+          },
+          {
+            "name": "downshift",
+            "version": "^3.1.5"
+          },
+          {
+            "name": "fg-loadcss",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "gatsby",
+            "version": "2.0.85"
+          },
+          {
+            "name": "gatsby-cli",
+            "version": "^2.4.5"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "2.0.17"
+          },
+          {
+            "name": "gatsby-plugin-catch-links",
+            "version": "2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-compile-es6-packages",
+            "version": "1.0.6"
+          },
+          {
+            "name": "gatsby-plugin-feed",
+            "version": "2.0.9"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "2.0.6"
+          },
+          {
+            "name": "gatsby-plugin-lodash",
+            "version": "3.0.1"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "2.0.6"
+          },
+          {
+            "name": "gatsby-plugin-module-resolver",
+            "version": "1.0.3"
+          },
+          {
+            "name": "gatsby-plugin-netlify-cms",
+            "version": "3.0.9"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "2.0.18"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "3.0.0"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "2.0.8"
+          },
+          {
+            "name": "gatsby-plugin-sitemap",
+            "version": "2.0.1"
+          },
+          {
+            "name": "gatsby-plugin-typescript",
+            "version": "2.0.0"
+          },
+          {
+            "name": "gatsby-remark-autolink-headers",
+            "version": "2.0.8"
+          },
+          {
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "2.0.5"
+          },
+          {
+            "name": "gatsby-remark-embed-youtube",
+            "version": "0.0.7"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "2.0.4"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "3.0.2"
+          },
+          {
+            "name": "gatsby-remark-relative-images",
+            "version": "0.2.0"
+          },
+          {
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "2.0.5"
+          },
+          {
+            "name": "gatsby-remark-sequence",
+            "version": "0.0.2"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "2.0.5"
+          },
+          {
+            "name": "gatsby-transformer-json",
+            "version": "2.1.5"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "2.1.9"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "2.1.5"
+          },
+          {
+            "name": "immutable",
+            "version": "^3.7.6"
+          },
+          {
+            "name": "jss",
+            "version": "9.8.7"
+          },
+          {
+            "name": "jss-rtl",
+            "version": "^0.2.3"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.11"
+          },
+          {
+            "name": "moment",
+            "version": "^2.22.2"
+          },
+          {
+            "name": "netlify-cms",
+            "version": "2.3.3"
+          },
+          {
+            "name": "prism-themes",
+            "version": "1.0.1"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          },
+          {
+            "name": "prop-types",
+            "version": "15.5.10"
+          },
+          {
+            "name": "react",
+            "version": "^16.7.0"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.7.0"
+          },
+          {
+            "name": "react-event-listener",
+            "version": "0.6.5"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-jss",
+            "version": "^8.6.1"
+          },
+          {
+            "name": "react-markdown",
+            "version": "4.0.3"
+          },
+          {
+            "name": "react-redux",
+            "version": "^5.1.0"
+          },
+          {
+            "name": "redux",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "redux-logger",
+            "version": "^3.0.6"
+          },
+          {
+            "name": "uglifyjs-webpack-plugin",
+            "version": "2.0.1"
+          },
+          {
+            "name": "url-join",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "husky",
+            "version": "1.3.1"
+          },
+          {
+            "name": "lint-staged",
+            "version": "8.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cli-glob",
+            "version": "^0.1.0"
+          },
+          {
+            "name": "eslint",
+            "version": "^5.8.0"
+          },
+          {
+            "name": "eslint-config-airbnb",
+            "version": "^17.1.0"
+          },
+          {
+            "name": "eslint-config-prettier",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "eslint-plugin-import",
+            "version": "^2.8.0"
+          },
+          {
+            "name": "eslint-plugin-jsx-a11y",
+            "version": "^6.1.2"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.11.1"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.14.3"
+          },
+          {
+            "name": "remark-cli",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "remark-preset-lint-recommended",
+            "version": "^3.0.2"
+          },
+          {
+            "name": "write-good",
+            "version": "^0.13.1"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "netlify-cms-ui-default",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8ece5c6383f515be512c9f60b426d8a9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "9fd53a4a-92e5-51cd-a4b1-8a336aafe3da": {
+      "resolve": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-plugin-page-creator",
+      "id": "9fd53a4a-92e5-51cd-a4b1-8a336aafe3da",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:/react/6stars/gatsby-starter-docs-material-ui/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/react/6stars/gatsby-starter-docs-material-ui/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e2edd70b345591a30bf5ffbe43976c4c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "siteUrl": "https://6star.pw/docs",
+        "title": "6star DOCs"
+      },
+      "port": "8001",
+      "host": "localhost",
+      "pathPrefix": "/docs",
+      "polyfill": true,
+      "buildTime": "2019-02-12T06:57:48.682Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c031990306c270d2cd93867797258c15",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "16bae119-fbe5-5822-9012-12abd2397853": {
+      "id": "16bae119-fbe5-5822-9012-12abd2397853",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9b546a4b7e454b8c11d5d4f741e09f0f",
+        "type": "Directory",
+        "description": "Directory \"content\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "docs",
+      "absolutePath": "C:/react/6stars/gatsby-starter-docs-material-ui/content",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-02-12T06:56:55.515Z",
+      "accessTime": "2019-02-12T06:56:55.515Z",
+      "changeTime": "2019-02-12T06:56:55.515Z",
+      "birthTime": "2019-02-11T17:08:21.793Z",
+      "root": "C:/",
+      "dir": "C:/react/6stars/gatsby-starter-docs-material-ui",
+      "base": "content",
+      "ext": "",
+      "name": "content",
+      "relativeDirectory": "..",
+      "dev": 1813866114,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 150026162586784260,
+      "atimeMs": 1549954615515.404,
+      "mtimeMs": 1549954615515.404,
+      "ctimeMs": 1549954615515.404,
+      "birthtimeMs": 1549904901793.2854,
+      "atime": "2019-02-12T06:56:55.515Z",
+      "mtime": "2019-02-12T06:56:55.515Z",
+      "ctime": "2019-02-12T06:56:55.515Z",
+      "birthtime": "2019-02-11T17:08:21.793Z"
+    },
+    "089d1345-96bc-5805-b397-be65613e586f": {
+      "id": "089d1345-96bc-5805-b397-be65613e586f",
+      "children": [
+        "1e400cf0-186a-53f2-984b-688ff484e13d"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a2e65f3e4e65a2b56ca821d54c1602a8",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\guides_sample-guide.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "docs",
+      "absolutePath": "C:/react/6stars/gatsby-starter-docs-material-ui/content/guides_sample-guide.md",
+      "relativePath": "guides_sample-guide.md",
+      "extension": "md",
+      "size": 9356,
+      "prettySize": "9.36 kB",
+      "modifiedTime": "2019-02-12T07:05:43.109Z",
+      "accessTime": "2019-02-12T06:56:55.499Z",
+      "changeTime": "2019-02-12T07:05:43.109Z",
+      "birthTime": "2019-02-12T06:56:55.499Z",
+      "root": "C:/",
+      "dir": "C:/react/6stars/gatsby-starter-docs-material-ui/content",
+      "base": "guides_sample-guide.md",
+      "ext": ".md",
+      "name": "guides_sample-guide",
+      "relativeDirectory": "",
+      "dev": 1813866114,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 28147497671075000,
+      "atimeMs": 1549954615499.4038,
+      "mtimeMs": 1549955143108.922,
+      "ctimeMs": 1549955143108.922,
+      "birthtimeMs": 1549954615499.4038,
+      "atime": "2019-02-12T06:56:55.499Z",
+      "mtime": "2019-02-12T07:05:43.109Z",
+      "ctime": "2019-02-12T07:05:43.109Z",
+      "birthtime": "2019-02-12T06:56:55.499Z"
+    },
+    "1900a4cc-cabf-57b6-8f59-83b3467dd565": {
+      "id": "1900a4cc-cabf-57b6-8f59-83b3467dd565",
+      "children": [
+        "69c5efa1-01dc-59c5-ac80-d719b74a9da3"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "24da174ea2d95cd1aab9afe7a9229f30",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\api_sample-api.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "docs",
+      "absolutePath": "C:/react/6stars/gatsby-starter-docs-material-ui/content/api_sample-api.md",
+      "relativePath": "api_sample-api.md",
+      "extension": "md",
+      "size": 194,
+      "prettySize": "194 B",
+      "modifiedTime": "2019-02-12T07:05:39.573Z",
+      "accessTime": "2019-02-12T06:56:55.489Z",
+      "changeTime": "2019-02-12T07:05:39.573Z",
+      "birthTime": "2019-02-12T06:56:55.489Z",
+      "root": "C:/",
+      "dir": "C:/react/6stars/gatsby-starter-docs-material-ui/content",
+      "base": "api_sample-api.md",
+      "ext": ".md",
+      "name": "api_sample-api",
+      "relativeDirectory": "",
+      "dev": 1813866114,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 12384898976097604,
+      "atimeMs": 1549954615489.4192,
+      "mtimeMs": 1549955139573.1604,
+      "ctimeMs": 1549955139573.1604,
+      "birthtimeMs": 1549954615489.4192,
+      "atime": "2019-02-12T06:56:55.489Z",
+      "mtime": "2019-02-12T07:05:39.573Z",
+      "ctime": "2019-02-12T07:05:39.573Z",
+      "birthtime": "2019-02-12T06:56:55.489Z"
+    },
+    "96aa9ede-bbc7-5407-b410-d95cd89ce424": {
+      "id": "96aa9ede-bbc7-5407-b410-d95cd89ce424",
+      "children": [
+        "11f51234-9f00-5724-b183-791f71a90cd9"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "abd6d8ddb6a9d4c091aa1d5af6d9892c",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\config-settings_glossary.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "docs",
+      "absolutePath": "C:/react/6stars/gatsby-starter-docs-material-ui/content/config-settings_glossary.md",
+      "relativePath": "config-settings_glossary.md",
+      "extension": "md",
+      "size": 2041,
+      "prettySize": "2.04 kB",
+      "modifiedTime": "2019-02-12T07:05:39.573Z",
+      "accessTime": "2019-02-12T06:56:55.494Z",
+      "changeTime": "2019-02-12T07:05:39.573Z",
+      "birthTime": "2019-02-12T06:56:55.494Z",
+      "root": "C:/",
+      "dir": "C:/react/6stars/gatsby-starter-docs-material-ui/content",
+      "base": "config-settings_glossary.md",
+      "ext": ".md",
+      "name": "config-settings_glossary",
+      "relativeDirectory": "",
+      "dev": 1813866114,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 18858823440442824,
+      "atimeMs": 1549954615494.404,
+      "mtimeMs": 1549955139573.1604,
+      "ctimeMs": 1549955139573.1604,
+      "birthtimeMs": 1549954615494.404,
+      "atime": "2019-02-12T06:56:55.494Z",
+      "mtime": "2019-02-12T07:05:39.573Z",
+      "ctime": "2019-02-12T07:05:39.573Z",
+      "birthtime": "2019-02-12T06:56:55.494Z"
+    },
+    "568ea601-2454-5368-b27b-ba4f7fa57b21": {
+      "id": "568ea601-2454-5368-b27b-ba4f7fa57b21",
+      "children": [
+        "3ef74833-7cff-5622-af56-14b71339cd5c"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d41d8cd98f00b204e9800998ecf8427e",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\learn_javascript.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "docs",
+      "absolutePath": "C:/react/6stars/gatsby-starter-docs-material-ui/content/learn_javascript.md",
+      "relativePath": "learn_javascript.md",
+      "extension": "md",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-02-12T07:04:40.109Z",
+      "accessTime": "2019-02-12T06:56:55.511Z",
+      "changeTime": "2019-02-12T07:04:40.109Z",
+      "birthTime": "2019-02-12T06:56:55.511Z",
+      "root": "C:/",
+      "dir": "C:/react/6stars/gatsby-starter-docs-material-ui/content",
+      "base": "learn_javascript.md",
+      "ext": ".md",
+      "name": "learn_javascript",
+      "relativeDirectory": "",
+      "dev": 1813866114,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 2251799815162894,
+      "atimeMs": 1549954615510.5593,
+      "mtimeMs": 1549955080109.4512,
+      "ctimeMs": 1549955080109.4512,
+      "birthtimeMs": 1549954615510.5593,
+      "atime": "2019-02-12T06:56:55.511Z",
+      "mtime": "2019-02-12T07:04:40.109Z",
+      "ctime": "2019-02-12T07:04:40.109Z",
+      "birthtime": "2019-02-12T06:56:55.511Z"
+    },
+    "9a0a43c0-4300-51dc-82b4-2053d177503e": {
+      "id": "9a0a43c0-4300-51dc-82b4-2053d177503e",
+      "children": [
+        "4a89134c-c9fd-595a-9e3f-6a6769e2f699"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0960b73a65f5a2d5d246c0ae4cafdf16",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\learn_graphql.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "docs",
+      "absolutePath": "C:/react/6stars/gatsby-starter-docs-material-ui/content/learn_graphql.md",
+      "relativePath": "learn_graphql.md",
+      "extension": "md",
+      "size": 5406,
+      "prettySize": "5.41 kB",
+      "modifiedTime": "2019-02-12T07:05:45.944Z",
+      "accessTime": "2019-02-12T06:56:55.505Z",
+      "changeTime": "2019-02-12T07:05:45.944Z",
+      "birthTime": "2019-02-12T06:56:55.505Z",
+      "root": "C:/",
+      "dir": "C:/react/6stars/gatsby-starter-docs-material-ui/content",
+      "base": "learn_graphql.md",
+      "ext": ".md",
+      "name": "learn_graphql",
+      "relativeDirectory": "",
+      "dev": 1813866114,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3377699722005783,
+      "atimeMs": 1549954615505.4197,
+      "mtimeMs": 1549955145943.7966,
+      "ctimeMs": 1549955145943.7966,
+      "birthtimeMs": 1549954615505.4197,
+      "atime": "2019-02-12T06:56:55.505Z",
+      "mtime": "2019-02-12T07:05:45.944Z",
+      "ctime": "2019-02-12T07:05:45.944Z",
+      "birthtime": "2019-02-12T06:56:55.505Z"
+    },
+    "ff9c9cc1-c0bf-5baa-8b20-0727d6a3f7e5": {
+      "id": "ff9c9cc1-c0bf-5baa-8b20-0727d6a3f7e5",
+      "children": [
+        "1d5209e7-a372-5c7e-9be0-9827ad475bec"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "95e5f975b9aa25c1077f305c618ad0a9",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\learn_react.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "docs",
+      "absolutePath": "C:/react/6stars/gatsby-starter-docs-material-ui/content/learn_react.md",
+      "relativePath": "learn_react.md",
+      "extension": "md",
+      "size": 5392,
+      "prettySize": "5.39 kB",
+      "modifiedTime": "2019-02-12T06:20:35.448Z",
+      "accessTime": "2019-02-11T20:47:26.777Z",
+      "changeTime": "2019-02-12T06:20:35.448Z",
+      "birthTime": "2019-02-11T20:47:26.777Z",
+      "root": "C:/",
+      "dir": "C:/react/6stars/gatsby-starter-docs-material-ui/content",
+      "base": "learn_react.md",
+      "ext": ".md",
+      "name": "learn_react",
+      "relativeDirectory": "",
+      "dev": 1813866114,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 7318349395305944,
+      "atimeMs": 1549918046777,
+      "mtimeMs": 1549952435447.698,
+      "ctimeMs": 1549952435447.698,
+      "birthtimeMs": 1549918046776.5955,
+      "atime": "2019-02-11T20:47:26.777Z",
+      "mtime": "2019-02-12T06:20:35.448Z",
+      "ctime": "2019-02-12T06:20:35.448Z",
+      "birthtime": "2019-02-11T20:47:26.777Z"
+    },
+    "1d5209e7-a372-5c7e-9be0-9827ad475bec": {
+      "id": "1d5209e7-a372-5c7e-9be0-9827ad475bec",
+      "children": [],
+      "parent": "ff9c9cc1-c0bf-5baa-8b20-0727d6a3f7e5",
+      "internal": {
+        "content": "\r\n## Learn in a Sandbox\r\n### [CodeSandbox](https://codesandbox.io/)\r\n## Learn Javascript\r\n### [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)\r\n\r\n1. [Up and Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)\r\n2. [Scope and Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)\r\n3. [_this_ & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)\r\n4. [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)\r\n5. [Benchmarking & Tuning](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch6.md)\r\n6. [Bulletproof javascript benchmarks](https://calendar.perfplanet.com/2010/bulletproof-javascript-benchmarks/)\r\n\r\n### [Javascript Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)\r\n## Learn React\r\n### React Developer Roadmap\r\n![](https://github.com/adam-golab/react-developer-roadmap/raw/master/roadmap.png)\r\n### React Courses\r\n* [Modern React with Redux](https://www.udemy.com/react-redux/)* [Server Side Rendering with React and Redux](https://www.udemy.com/server-side-rendering-with-react-and-redux/)* [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course/)\r\n### React Rendering\r\n{%youtube 7S8v8jfLb1Q %}\r\n### React Lifecycle\r\n![](https://i.imgur.com/ipSkur0.png)[Understanding React Component Lifeycle](https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d)\r\n### [React Cheatsheet](https://reactcheatsheet.com/)\r\n### [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)\r\n### [React Workshop Exercises](https://github.com/ReactTraining/react-workshop/tree/master/subjects)\r\n### React Router\r\n{%youtube Vur2dAFZ4GE %}\r\n{%youtube bUlkq3PDfRY %}\r\n## Learn Redux - Managing Application State\r\n### Redux Basics\r\n![](https://raw.githubusercontent.com/ReactTraining/react-workshop/master/slides/Redux.gif)\r\n### [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)### [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)\r\n### Redux Middlewares\r\n\r\n![](https://i.imgur.com/HVskLcj.gif)\r\n* ###### [Article: Redux 4 Ways](https://medium.com/react-native-training/redux-4-ways-95a130da0cdc)\r\n* ###### [Redux Thunk](https://github.com/gaearon/redux-thunk)\r\n* ###### [Redux Promise](https://github.com/pburtchaell/redux-promise-middleware)\r\n* [with Async Await](https://github.com/pburtchaell/redux-promise-middleware/blob/master/docs/guides/async-await.md)\r\n* ###### [Redux Saga](https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html)\r\n![](https://resizer.yalantis.com/w770/uploads/ckeditor/pictures/2602/content_002.jpg)\r\n* ###### [Redux Observable](https://github.com/redux-observable/redux-observable)\r\n{%youtube sF5-V-Szo0c %}\r\n\r\n\r\n## React Emerging Features & Patterns\r\n\r\n### [React Context API](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)\r\n\r\n\r\n### Server Side Rendering\r\n- Razzle & After.js- Next.js\r\n### [Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)\r\n##### [Sneak Peek](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html)\r\n##### [Understand React \"Suspense\"](https://medium.com/@baphemot/understanding-react-suspense-1c73b4b0b1e6)\r\n\r\n###### Dan Abramov: Beyond React 16 | JSConf Iceland 2018 `youtube:https://www.youtube.com/embed/nLF0n9SACd4`\r\n###### Andrew Clark: React Suspense `youtube:https://www.youtube.com/embed/z-6JC0_cOns`\r\n\r\n## React Native\r\n## GraphQL\r\n### [GraphQL](http://graphql.org/)\r\n- [How to GraphQL](https://www.howtographql.com/)\r\n- GRAPHCOOL & PRISMA\r\n    - [GRAPHCOOL](https://graph.cool) - Self-Hosted GraphQL BaaS    - [Prisma](https://www.prisma.io/) - Turn your database into a GraphQL API\r\n    - [How to deploy a Prisma cluster to AWS Fargate using Docker & CloudFormation](https://blog.graph.cool/how-to-deploy-a-prisma-cluster-to-aws-fargate-using-docker-cloudformation-293aa8727b89)\r\n    - Prisma Cloud — A GraphQL Database Platform    {%youtube jELE4KXJPn4 %}     - [AWS App Sync](https://aws.amazon.com/appsync/) - Build data-driven apps with real-time and offline capabilities![](https://d1.awsstatic.com/products/AWS-mobile/DeepDish/Flow_Diagrams_Reinvent_DeepDish_112617_CM_2.6baa23c6cda3a8510bfaff069f2375d955dd2ca6.png)     - [Resources](https://aws.amazon.com/appsync/resources/)    - [React Starter App](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react)    - Introduction to AWS AppSync and GraphQL    {%youtube olAPj6EIlag %}    \r\n\r\n- ###### [GraphQL Subscriptions](https://www.apollographql.com/docs/react/advanced/subscriptions.html)        {%youtube bn8qsi8jVew %}\r\n    {%youtube 1Fg_QtzI7SU %}\r\n\r\nhttps://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-aug-2018-a9f14bbda09\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "d8c041f59b48cbf6d935a3a3567cf4da",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "date": "default-site-plugin",
+          "slug": "default-site-plugin",
+          "route": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Learning React",
+        "cover": "AWESOME REACT",
+        "description": "A collection of resources for learning React",
+        "date": "2019-01-08T06:00:00.000Z",
+        "route": "/learn/react",
+        "slug": "learn_react",
+        "category": "learn",
+        "tags": [
+          "guide",
+          "react"
+        ],
+        "_PARENT": "ff9c9cc1-c0bf-5baa-8b20-0727d6a3f7e5"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n## Learn in a Sandbox\r\n### [CodeSandbox](https://codesandbox.io/)\r\n## Learn Javascript\r\n### [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)\r\n\r\n1. [Up and Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)\r\n2. [Scope and Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)\r\n3. [_this_ & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)\r\n4. [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)\r\n5. [Benchmarking & Tuning](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch6.md)\r\n6. [Bulletproof javascript benchmarks](https://calendar.perfplanet.com/2010/bulletproof-javascript-benchmarks/)\r\n\r\n### [Javascript Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)\r\n## Learn React\r\n### React Developer Roadmap\r\n![](https://github.com/adam-golab/react-developer-roadmap/raw/master/roadmap.png)\r\n### React Courses\r\n* [Modern React with Redux](https://www.udemy.com/react-redux/)* [Server Side Rendering with React and Redux](https://www.udemy.com/server-side-rendering-with-react-and-redux/)* [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course/)\r\n### React Rendering\r\n{%youtube 7S8v8jfLb1Q %}\r\n### React Lifecycle\r\n![](https://i.imgur.com/ipSkur0.png)[Understanding React Component Lifeycle](https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d)\r\n### [React Cheatsheet](https://reactcheatsheet.com/)\r\n### [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)\r\n### [React Workshop Exercises](https://github.com/ReactTraining/react-workshop/tree/master/subjects)\r\n### React Router\r\n{%youtube Vur2dAFZ4GE %}\r\n{%youtube bUlkq3PDfRY %}\r\n## Learn Redux - Managing Application State\r\n### Redux Basics\r\n![](https://raw.githubusercontent.com/ReactTraining/react-workshop/master/slides/Redux.gif)\r\n### [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)### [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)\r\n### Redux Middlewares\r\n\r\n![](https://i.imgur.com/HVskLcj.gif)\r\n* ###### [Article: Redux 4 Ways](https://medium.com/react-native-training/redux-4-ways-95a130da0cdc)\r\n* ###### [Redux Thunk](https://github.com/gaearon/redux-thunk)\r\n* ###### [Redux Promise](https://github.com/pburtchaell/redux-promise-middleware)\r\n* [with Async Await](https://github.com/pburtchaell/redux-promise-middleware/blob/master/docs/guides/async-await.md)\r\n* ###### [Redux Saga](https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html)\r\n![](https://resizer.yalantis.com/w770/uploads/ckeditor/pictures/2602/content_002.jpg)\r\n* ###### [Redux Observable](https://github.com/redux-observable/redux-observable)\r\n{%youtube sF5-V-Szo0c %}\r\n\r\n\r\n## React Emerging Features & Patterns\r\n\r\n### [React Context API](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)\r\n\r\n\r\n### Server Side Rendering\r\n- Razzle & After.js- Next.js\r\n### [Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)\r\n##### [Sneak Peek](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html)\r\n##### [Understand React \"Suspense\"](https://medium.com/@baphemot/understanding-react-suspense-1c73b4b0b1e6)\r\n\r\n###### Dan Abramov: Beyond React 16 | JSConf Iceland 2018 `youtube:https://www.youtube.com/embed/nLF0n9SACd4`\r\n###### Andrew Clark: React Suspense `youtube:https://www.youtube.com/embed/z-6JC0_cOns`\r\n\r\n## React Native\r\n## GraphQL\r\n### [GraphQL](http://graphql.org/)\r\n- [How to GraphQL](https://www.howtographql.com/)\r\n- GRAPHCOOL & PRISMA\r\n    - [GRAPHCOOL](https://graph.cool) - Self-Hosted GraphQL BaaS    - [Prisma](https://www.prisma.io/) - Turn your database into a GraphQL API\r\n    - [How to deploy a Prisma cluster to AWS Fargate using Docker & CloudFormation](https://blog.graph.cool/how-to-deploy-a-prisma-cluster-to-aws-fargate-using-docker-cloudformation-293aa8727b89)\r\n    - Prisma Cloud — A GraphQL Database Platform    {%youtube jELE4KXJPn4 %}     - [AWS App Sync](https://aws.amazon.com/appsync/) - Build data-driven apps with real-time and offline capabilities![](https://d1.awsstatic.com/products/AWS-mobile/DeepDish/Flow_Diagrams_Reinvent_DeepDish_112617_CM_2.6baa23c6cda3a8510bfaff069f2375d955dd2ca6.png)     - [Resources](https://aws.amazon.com/appsync/resources/)    - [React Starter App](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react)    - Introduction to AWS AppSync and GraphQL    {%youtube olAPj6EIlag %}    \r\n\r\n- ###### [GraphQL Subscriptions](https://www.apollographql.com/docs/react/advanced/subscriptions.html)        {%youtube bn8qsi8jVew %}\r\n    {%youtube 1Fg_QtzI7SU %}\r\n\r\nhttps://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-aug-2018-a9f14bbda09\r\n",
+      "fileAbsolutePath": "C:/react/6stars/gatsby-starter-docs-material-ui/content/learn_react.md",
+      "fields": {
+        "date": null,
+        "slug": "learn_react",
+        "route": "/learn/react"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/react/6stars/gatsby-starter-docs-material-ui/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {
+        "slug": "/",
+        "route": "/",
+        "title": "6star DOCs",
+        "config": {
+          "siteTitle": "6star DOCs",
+          "siteTitleShort": "6star Specs",
+          "siteTitleAlt": "6star DOCS",
+          "siteDescription": "for 6star Design Specs",
+          "siteLogo": "/upload/logo.png",
+          "siteUrl": "https://6star.pw",
+          "siteRss": "/rss.xml",
+          "pathPrefix": "/docs",
+          "siteGATrackingID": "",
+          "docDefaultCategoryID": "guide",
+          "dateFromFormat": "MM-DD-YYYY",
+          "dateFormat": "MM/DD/YYYY",
+          "userName": "6star User",
+          "copyright": "Copyright © 2019. 6star"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e94c2604206b8bf5ff8fe784a53861ef",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /api/sample-api": {
+      "jsonName": "api-sample-api-add",
+      "internalComponentName": "ComponentApiSampleApi",
+      "path": "/api/sample-api",
+      "component": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/doc.js",
+      "componentChunkName": "component---src-templates-doc-js",
+      "context": {
+        "route": "/api/sample-api",
+        "slug": "sample-api",
+        "title": "Sample Api",
+        "category": "api",
+        "tags": [
+          "sample"
+        ],
+        "config": {
+          "siteTitle": "6star DOCs",
+          "siteTitleShort": "6star Specs",
+          "siteTitleAlt": "6star DOCS",
+          "siteDescription": "for 6star Design Specs",
+          "siteLogo": "/upload/logo.png",
+          "siteUrl": "https://6star.pw",
+          "siteRss": "/rss.xml",
+          "pathPrefix": "/docs",
+          "siteGATrackingID": "",
+          "docDefaultCategoryID": "guide",
+          "dateFromFormat": "MM-DD-YYYY",
+          "dateFormat": "MM/DD/YYYY",
+          "userName": "6star User",
+          "copyright": "Copyright © 2019. 6star"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/doc.js",
+      "id": "SitePage /api/sample-api",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "eddb1a348cb8d3514603537187af7ce8",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /config/settings/glossary": {
+      "jsonName": "config-settings-glossary-61c",
+      "internalComponentName": "ComponentConfigSettingsGlossary",
+      "path": "/config/settings/glossary",
+      "component": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/doc.js",
+      "componentChunkName": "component---src-templates-doc-js",
+      "context": {
+        "route": "/config/settings/glossary",
+        "slug": "config_settings_glossary",
+        "title": "Sample Table Glossary",
+        "category": "config",
+        "tags": [
+          "table",
+          "sample"
+        ],
+        "config": {
+          "siteTitle": "6star DOCs",
+          "siteTitleShort": "6star Specs",
+          "siteTitleAlt": "6star DOCS",
+          "siteDescription": "for 6star Design Specs",
+          "siteLogo": "/upload/logo.png",
+          "siteUrl": "https://6star.pw",
+          "siteRss": "/rss.xml",
+          "pathPrefix": "/docs",
+          "siteGATrackingID": "",
+          "docDefaultCategoryID": "guide",
+          "dateFromFormat": "MM-DD-YYYY",
+          "dateFormat": "MM/DD/YYYY",
+          "userName": "6star User",
+          "copyright": "Copyright © 2019. 6star"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/doc.js",
+      "id": "SitePage /config/settings/glossary",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "cae62a8ccaaa5c22778402c92eb22b76",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /guides/sample-guide": {
+      "jsonName": "guides-sample-guide-f4c",
+      "internalComponentName": "ComponentGuidesSampleGuide",
+      "path": "/guides/sample-guide",
+      "component": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/doc.js",
+      "componentChunkName": "component---src-templates-doc-js",
+      "context": {
+        "route": "/guides/sample-guide",
+        "slug": "guides_sample-guide",
+        "title": "Sample Guide",
+        "category": "guide",
+        "tags": [
+          "sample"
+        ],
+        "config": {
+          "siteTitle": "6star DOCs",
+          "siteTitleShort": "6star Specs",
+          "siteTitleAlt": "6star DOCS",
+          "siteDescription": "for 6star Design Specs",
+          "siteLogo": "/upload/logo.png",
+          "siteUrl": "https://6star.pw",
+          "siteRss": "/rss.xml",
+          "pathPrefix": "/docs",
+          "siteGATrackingID": "",
+          "docDefaultCategoryID": "guide",
+          "dateFromFormat": "MM-DD-YYYY",
+          "dateFormat": "MM/DD/YYYY",
+          "userName": "6star User",
+          "copyright": "Copyright © 2019. 6star"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/doc.js",
+      "id": "SitePage /guides/sample-guide",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "259da4e642934d3595323bdd154c520e",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /learn/javascript": {
+      "jsonName": "learn-javascript-cdb",
+      "internalComponentName": "ComponentLearnJavascript",
+      "path": "/learn/javascript",
+      "component": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/doc.js",
+      "componentChunkName": "component---src-templates-doc-js",
+      "context": {
+        "route": "/learn/javascript",
+        "slug": "learn_javascript",
+        "title": "Learning Javascript",
+        "category": "learn",
+        "tags": [
+          "guide",
+          "javacript"
+        ],
+        "config": {
+          "siteTitle": "6star DOCs",
+          "siteTitleShort": "6star Specs",
+          "siteTitleAlt": "6star DOCS",
+          "siteDescription": "for 6star Design Specs",
+          "siteLogo": "/upload/logo.png",
+          "siteUrl": "https://6star.pw",
+          "siteRss": "/rss.xml",
+          "pathPrefix": "/docs",
+          "siteGATrackingID": "",
+          "docDefaultCategoryID": "guide",
+          "dateFromFormat": "MM-DD-YYYY",
+          "dateFormat": "MM/DD/YYYY",
+          "userName": "6star User",
+          "copyright": "Copyright © 2019. 6star"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/doc.js",
+      "id": "SitePage /learn/javascript",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "05f2e3a1095a8fa931bfaee493b892a2",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /learn/graphql": {
+      "jsonName": "learn-graphql-410",
+      "internalComponentName": "ComponentLearnGraphql",
+      "path": "/learn/graphql",
+      "component": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/doc.js",
+      "componentChunkName": "component---src-templates-doc-js",
+      "context": {
+        "route": "/learn/graphql",
+        "slug": "learn_graphql",
+        "title": "Learning GraphQL",
+        "category": "learn",
+        "tags": [
+          "guide",
+          "graphql"
+        ],
+        "config": {
+          "siteTitle": "6star DOCs",
+          "siteTitleShort": "6star Specs",
+          "siteTitleAlt": "6star DOCS",
+          "siteDescription": "for 6star Design Specs",
+          "siteLogo": "/upload/logo.png",
+          "siteUrl": "https://6star.pw",
+          "siteRss": "/rss.xml",
+          "pathPrefix": "/docs",
+          "siteGATrackingID": "",
+          "docDefaultCategoryID": "guide",
+          "dateFromFormat": "MM-DD-YYYY",
+          "dateFormat": "MM/DD/YYYY",
+          "userName": "6star User",
+          "copyright": "Copyright © 2019. 6star"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/doc.js",
+      "id": "SitePage /learn/graphql",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3554f4c77f4336978ab6329f287fd271",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /learn/react": {
+      "jsonName": "learn-react-413",
+      "internalComponentName": "ComponentLearnReact",
+      "path": "/learn/react",
+      "component": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/doc.js",
+      "componentChunkName": "component---src-templates-doc-js",
+      "context": {
+        "route": "/learn/react",
+        "slug": "learn_react",
+        "title": "Learning React",
+        "category": "learn",
+        "tags": [
+          "guide",
+          "react"
+        ],
+        "config": {
+          "siteTitle": "6star DOCs",
+          "siteTitleShort": "6star Specs",
+          "siteTitleAlt": "6star DOCS",
+          "siteDescription": "for 6star Design Specs",
+          "siteLogo": "/upload/logo.png",
+          "siteUrl": "https://6star.pw",
+          "siteRss": "/rss.xml",
+          "pathPrefix": "/docs",
+          "siteGATrackingID": "",
+          "docDefaultCategoryID": "guide",
+          "dateFromFormat": "MM-DD-YYYY",
+          "dateFormat": "MM/DD/YYYY",
+          "userName": "6star User",
+          "copyright": "Copyright © 2019. 6star"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/doc.js",
+      "id": "SitePage /learn/react",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ed8d3d66bb775a14013faa0bdc496208",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/sample/": {
+      "jsonName": "tags-sample-369",
+      "internalComponentName": "ComponentTagsSample",
+      "path": "/tags/sample/",
+      "component": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/tag.js",
+      "componentChunkName": "component---src-templates-tag-js",
+      "context": {
+        "route": "/tags/sample/",
+        "title": "sample",
+        "tag": "sample",
+        "config": {
+          "siteTitle": "6star DOCs",
+          "siteTitleShort": "6star Specs",
+          "siteTitleAlt": "6star DOCS",
+          "siteDescription": "for 6star Design Specs",
+          "siteLogo": "/upload/logo.png",
+          "siteUrl": "https://6star.pw",
+          "siteRss": "/rss.xml",
+          "pathPrefix": "/docs",
+          "siteGATrackingID": "",
+          "docDefaultCategoryID": "guide",
+          "dateFromFormat": "MM-DD-YYYY",
+          "dateFormat": "MM/DD/YYYY",
+          "userName": "6star User",
+          "copyright": "Copyright © 2019. 6star"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/tag.js",
+      "id": "SitePage /tags/sample/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4cc800c9b0341003e3afd3e3a5f5f133",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/table/": {
+      "jsonName": "tags-table-a44",
+      "internalComponentName": "ComponentTagsTable",
+      "path": "/tags/table/",
+      "component": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/tag.js",
+      "componentChunkName": "component---src-templates-tag-js",
+      "context": {
+        "route": "/tags/table/",
+        "title": "table",
+        "tag": "table",
+        "config": {
+          "siteTitle": "6star DOCs",
+          "siteTitleShort": "6star Specs",
+          "siteTitleAlt": "6star DOCS",
+          "siteDescription": "for 6star Design Specs",
+          "siteLogo": "/upload/logo.png",
+          "siteUrl": "https://6star.pw",
+          "siteRss": "/rss.xml",
+          "pathPrefix": "/docs",
+          "siteGATrackingID": "",
+          "docDefaultCategoryID": "guide",
+          "dateFromFormat": "MM-DD-YYYY",
+          "dateFormat": "MM/DD/YYYY",
+          "userName": "6star User",
+          "copyright": "Copyright © 2019. 6star"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/tag.js",
+      "id": "SitePage /tags/table/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8885695b549a3518e668b070a3eefc4b",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/guide/": {
+      "jsonName": "tags-guide-2a1",
+      "internalComponentName": "ComponentTagsGuide",
+      "path": "/tags/guide/",
+      "component": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/tag.js",
+      "componentChunkName": "component---src-templates-tag-js",
+      "context": {
+        "route": "/tags/guide/",
+        "title": "guide",
+        "tag": "guide",
+        "config": {
+          "siteTitle": "6star DOCs",
+          "siteTitleShort": "6star Specs",
+          "siteTitleAlt": "6star DOCS",
+          "siteDescription": "for 6star Design Specs",
+          "siteLogo": "/upload/logo.png",
+          "siteUrl": "https://6star.pw",
+          "siteRss": "/rss.xml",
+          "pathPrefix": "/docs",
+          "siteGATrackingID": "",
+          "docDefaultCategoryID": "guide",
+          "dateFromFormat": "MM-DD-YYYY",
+          "dateFormat": "MM/DD/YYYY",
+          "userName": "6star User",
+          "copyright": "Copyright © 2019. 6star"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/tag.js",
+      "id": "SitePage /tags/guide/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "aa71748b4f4a6c3dc240cbfb8a352cb8",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/javacript/": {
+      "jsonName": "tags-javacript-73e",
+      "internalComponentName": "ComponentTagsJavacript",
+      "path": "/tags/javacript/",
+      "component": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/tag.js",
+      "componentChunkName": "component---src-templates-tag-js",
+      "context": {
+        "route": "/tags/javacript/",
+        "title": "javacript",
+        "tag": "javacript",
+        "config": {
+          "siteTitle": "6star DOCs",
+          "siteTitleShort": "6star Specs",
+          "siteTitleAlt": "6star DOCS",
+          "siteDescription": "for 6star Design Specs",
+          "siteLogo": "/upload/logo.png",
+          "siteUrl": "https://6star.pw",
+          "siteRss": "/rss.xml",
+          "pathPrefix": "/docs",
+          "siteGATrackingID": "",
+          "docDefaultCategoryID": "guide",
+          "dateFromFormat": "MM-DD-YYYY",
+          "dateFormat": "MM/DD/YYYY",
+          "userName": "6star User",
+          "copyright": "Copyright © 2019. 6star"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/tag.js",
+      "id": "SitePage /tags/javacript/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c304c9b088ba22621ee7753941e0b07c",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/graphql/": {
+      "jsonName": "tags-graphql-f78",
+      "internalComponentName": "ComponentTagsGraphql",
+      "path": "/tags/graphql/",
+      "component": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/tag.js",
+      "componentChunkName": "component---src-templates-tag-js",
+      "context": {
+        "route": "/tags/graphql/",
+        "title": "graphql",
+        "tag": "graphql",
+        "config": {
+          "siteTitle": "6star DOCs",
+          "siteTitleShort": "6star Specs",
+          "siteTitleAlt": "6star DOCS",
+          "siteDescription": "for 6star Design Specs",
+          "siteLogo": "/upload/logo.png",
+          "siteUrl": "https://6star.pw",
+          "siteRss": "/rss.xml",
+          "pathPrefix": "/docs",
+          "siteGATrackingID": "",
+          "docDefaultCategoryID": "guide",
+          "dateFromFormat": "MM-DD-YYYY",
+          "dateFormat": "MM/DD/YYYY",
+          "userName": "6star User",
+          "copyright": "Copyright © 2019. 6star"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/tag.js",
+      "id": "SitePage /tags/graphql/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e32a037a63143279f60d3fa264706bcf",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/react/": {
+      "jsonName": "tags-react-490",
+      "internalComponentName": "ComponentTagsReact",
+      "path": "/tags/react/",
+      "component": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/tag.js",
+      "componentChunkName": "component---src-templates-tag-js",
+      "context": {
+        "route": "/tags/react/",
+        "title": "react",
+        "tag": "react",
+        "config": {
+          "siteTitle": "6star DOCs",
+          "siteTitleShort": "6star Specs",
+          "siteTitleAlt": "6star DOCS",
+          "siteDescription": "for 6star Design Specs",
+          "siteLogo": "/upload/logo.png",
+          "siteUrl": "https://6star.pw",
+          "siteRss": "/rss.xml",
+          "pathPrefix": "/docs",
+          "siteGATrackingID": "",
+          "docDefaultCategoryID": "guide",
+          "dateFromFormat": "MM-DD-YYYY",
+          "dateFormat": "MM/DD/YYYY",
+          "userName": "6star User",
+          "copyright": "Copyright © 2019. 6star"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/tag.js",
+      "id": "SitePage /tags/react/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fcb0c8fc10f7ca2d89945c7bc8d3dcd5",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/api/": {
+      "jsonName": "categories-api-5bf",
+      "internalComponentName": "ComponentCategoriesApi",
+      "path": "/categories/api/",
+      "component": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/category.js",
+      "componentChunkName": "component---src-templates-category-js",
+      "context": {
+        "route": "/categories/api/",
+        "title": "api",
+        "category": "api",
+        "config": {
+          "siteTitle": "6star DOCs",
+          "siteTitleShort": "6star Specs",
+          "siteTitleAlt": "6star DOCS",
+          "siteDescription": "for 6star Design Specs",
+          "siteLogo": "/upload/logo.png",
+          "siteUrl": "https://6star.pw",
+          "siteRss": "/rss.xml",
+          "pathPrefix": "/docs",
+          "siteGATrackingID": "",
+          "docDefaultCategoryID": "guide",
+          "dateFromFormat": "MM-DD-YYYY",
+          "dateFormat": "MM/DD/YYYY",
+          "userName": "6star User",
+          "copyright": "Copyright © 2019. 6star"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/category.js",
+      "id": "SitePage /categories/api/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1f3e186c6eef28bb0797304c4b141fa2",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/config/": {
+      "jsonName": "categories-config-f8b",
+      "internalComponentName": "ComponentCategoriesConfig",
+      "path": "/categories/config/",
+      "component": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/category.js",
+      "componentChunkName": "component---src-templates-category-js",
+      "context": {
+        "route": "/categories/config/",
+        "title": "config",
+        "category": "config",
+        "config": {
+          "siteTitle": "6star DOCs",
+          "siteTitleShort": "6star Specs",
+          "siteTitleAlt": "6star DOCS",
+          "siteDescription": "for 6star Design Specs",
+          "siteLogo": "/upload/logo.png",
+          "siteUrl": "https://6star.pw",
+          "siteRss": "/rss.xml",
+          "pathPrefix": "/docs",
+          "siteGATrackingID": "",
+          "docDefaultCategoryID": "guide",
+          "dateFromFormat": "MM-DD-YYYY",
+          "dateFormat": "MM/DD/YYYY",
+          "userName": "6star User",
+          "copyright": "Copyright © 2019. 6star"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/category.js",
+      "id": "SitePage /categories/config/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b83981d5eaff82d94db93d7aac165ee4",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/guide/": {
+      "jsonName": "categories-guide-f3e",
+      "internalComponentName": "ComponentCategoriesGuide",
+      "path": "/categories/guide/",
+      "component": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/category.js",
+      "componentChunkName": "component---src-templates-category-js",
+      "context": {
+        "route": "/categories/guide/",
+        "title": "guide",
+        "category": "guide",
+        "config": {
+          "siteTitle": "6star DOCs",
+          "siteTitleShort": "6star Specs",
+          "siteTitleAlt": "6star DOCS",
+          "siteDescription": "for 6star Design Specs",
+          "siteLogo": "/upload/logo.png",
+          "siteUrl": "https://6star.pw",
+          "siteRss": "/rss.xml",
+          "pathPrefix": "/docs",
+          "siteGATrackingID": "",
+          "docDefaultCategoryID": "guide",
+          "dateFromFormat": "MM-DD-YYYY",
+          "dateFormat": "MM/DD/YYYY",
+          "userName": "6star User",
+          "copyright": "Copyright © 2019. 6star"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/category.js",
+      "id": "SitePage /categories/guide/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "46e7310228c45c1e66452c964a0d37e5",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/learn/": {
+      "jsonName": "categories-learn-e44",
+      "internalComponentName": "ComponentCategoriesLearn",
+      "path": "/categories/learn/",
+      "component": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/category.js",
+      "componentChunkName": "component---src-templates-category-js",
+      "context": {
+        "route": "/categories/learn/",
+        "title": "learn",
+        "category": "learn",
+        "config": {
+          "siteTitle": "6star DOCs",
+          "siteTitleShort": "6star Specs",
+          "siteTitleAlt": "6star DOCS",
+          "siteDescription": "for 6star Design Specs",
+          "siteLogo": "/upload/logo.png",
+          "siteUrl": "https://6star.pw",
+          "siteRss": "/rss.xml",
+          "pathPrefix": "/docs",
+          "siteGATrackingID": "",
+          "docDefaultCategoryID": "guide",
+          "dateFromFormat": "MM-DD-YYYY",
+          "dateFormat": "MM/DD/YYYY",
+          "userName": "6star User",
+          "copyright": "Copyright © 2019. 6star"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/category.js",
+      "id": "SitePage /categories/learn/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "aab170b96cea5e541a24ac952f8945b7",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "3ef74833-7cff-5622-af56-14b71339cd5c": {
+      "id": "3ef74833-7cff-5622-af56-14b71339cd5c",
+      "children": [],
+      "parent": "568ea601-2454-5368-b27b-ba4f7fa57b21",
+      "internal": {
+        "content": "\r\n## Learn in a Sandbox\r\n### [CodeSandbox](https://codesandbox.io/)\r\n## Learn Javascript\r\n### [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)\r\n\r\n1. [Up and Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)\r\n2. [Scope and Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)\r\n3. [_this_ & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)\r\n4. [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)\r\n5. [Benchmarking & Tuning](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch6.md)\r\n6. [Bulletproof javascript benchmarks](https://calendar.perfplanet.com/2010/bulletproof-javascript-benchmarks/)\r\n\r\n### [Javascript Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)",
+        "type": "MarkdownRemark",
+        "contentDigest": "b37596281f937edd06754fc4bfbf8ccb",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "date": "default-site-plugin",
+          "slug": "default-site-plugin",
+          "route": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Learning Javascript",
+        "cover": "/upload/waves-rocks.jpeg",
+        "description": "A collection of resources for learning Javascript",
+        "date": "2019-01-08T06:00:00.000Z",
+        "route": "/learn/javascript",
+        "slug": "learn_javascript",
+        "category": "learn",
+        "tags": [
+          "guide",
+          "javacript"
+        ],
+        "_PARENT": "568ea601-2454-5368-b27b-ba4f7fa57b21"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n## Learn in a Sandbox\r\n### [CodeSandbox](https://codesandbox.io/)\r\n## Learn Javascript\r\n### [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)\r\n\r\n1. [Up and Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)\r\n2. [Scope and Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)\r\n3. [_this_ & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)\r\n4. [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)\r\n5. [Benchmarking & Tuning](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch6.md)\r\n6. [Bulletproof javascript benchmarks](https://calendar.perfplanet.com/2010/bulletproof-javascript-benchmarks/)\r\n\r\n### [Javascript Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)",
+      "fileAbsolutePath": "C:/react/6stars/gatsby-starter-docs-material-ui/content/learn_javascript.md",
+      "fields": {
+        "date": null,
+        "slug": "learn_javascript",
+        "route": "/learn/javascript"
+      }
+    },
+    "11f51234-9f00-5724-b183-791f71a90cd9": {
+      "id": "11f51234-9f00-5724-b183-791f71a90cd9",
+      "children": [],
+      "parent": "96aa9ede-bbc7-5407-b410-d95cd89ce424",
+      "internal": {
+        "content": "\r\n\r\n| Name | Type | Default | Description |\r\n|:-----|:-----|:--------|:------------|\r\n| <span class=\"prop-name\">action</span> | <span class=\"prop-type\">node |   | The action to display in the card header. |\r\n| <span class=\"prop-name\">avatar</span> | <span class=\"prop-type\">node |   | The Avatar for the Card Header. |\r\n| <span class=\"prop-name\">classes</span> | <span class=\"prop-type\">object |   | Override or extend the styles applied to the component. See [CSS API](#css-api) below for more details. |\r\n| <span class=\"prop-name\">component</span> | <span class=\"prop-type\">union:&nbsp;string&nbsp;&#124;<br>&nbsp;func&nbsp;&#124;<br>&nbsp;object<br> | <span class=\"prop-default\">'div'</span> | The component used for the root node. Either a string to use a DOM element or a component. |\r\n| <span class=\"prop-name\">disableTypography</span> | <span class=\"prop-type\">bool | <span class=\"prop-default\">false</span> | If `true`, the children won't be wrapped by a Typography component. This can be useful to render an alternative Typography variant by wrapping the `title` text, and optional `subheader` text with the Typography component. |\r\n| <span class=\"prop-name\">subheader</span> | <span class=\"prop-type\">node |   | The content of the component. |\r\n| <span class=\"prop-name\">subheaderTypographyProps</span> | <span class=\"prop-type\">object |   | These props will be forwarded to the subheader (as long as disableTypography is not `true`). |\r\n| <span class=\"prop-name\">title</span> | <span class=\"prop-type\">node |   | The content of the Card Title. |\r\n| <span class=\"prop-name\">titleTypographyProps</span> | <span class=\"prop-type\">object |   | These props will be forwarded to the title (as long as disableTypography is not `true`). |\r\n---------------------------------\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "cd7780898edc8b2d876a4fa416f13a5c",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "date": "default-site-plugin",
+          "slug": "default-site-plugin",
+          "route": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Sample Table Glossary",
+        "cover": "/upload/windy-road.jpg",
+        "description": "A Sample Table Based Doc",
+        "date": "2019-01-02T06:00:00.000Z",
+        "route": "/config/settings/glossary",
+        "slug": "config_settings_glossary",
+        "category": "config",
+        "tags": [
+          "table",
+          "sample"
+        ],
+        "_PARENT": "96aa9ede-bbc7-5407-b410-d95cd89ce424"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n\r\n| Name | Type | Default | Description |\r\n|:-----|:-----|:--------|:------------|\r\n| <span class=\"prop-name\">action</span> | <span class=\"prop-type\">node |   | The action to display in the card header. |\r\n| <span class=\"prop-name\">avatar</span> | <span class=\"prop-type\">node |   | The Avatar for the Card Header. |\r\n| <span class=\"prop-name\">classes</span> | <span class=\"prop-type\">object |   | Override or extend the styles applied to the component. See [CSS API](#css-api) below for more details. |\r\n| <span class=\"prop-name\">component</span> | <span class=\"prop-type\">union:&nbsp;string&nbsp;&#124;<br>&nbsp;func&nbsp;&#124;<br>&nbsp;object<br> | <span class=\"prop-default\">'div'</span> | The component used for the root node. Either a string to use a DOM element or a component. |\r\n| <span class=\"prop-name\">disableTypography</span> | <span class=\"prop-type\">bool | <span class=\"prop-default\">false</span> | If `true`, the children won't be wrapped by a Typography component. This can be useful to render an alternative Typography variant by wrapping the `title` text, and optional `subheader` text with the Typography component. |\r\n| <span class=\"prop-name\">subheader</span> | <span class=\"prop-type\">node |   | The content of the component. |\r\n| <span class=\"prop-name\">subheaderTypographyProps</span> | <span class=\"prop-type\">object |   | These props will be forwarded to the subheader (as long as disableTypography is not `true`). |\r\n| <span class=\"prop-name\">title</span> | <span class=\"prop-type\">node |   | The content of the Card Title. |\r\n| <span class=\"prop-name\">titleTypographyProps</span> | <span class=\"prop-type\">object |   | These props will be forwarded to the title (as long as disableTypography is not `true`). |\r\n---------------------------------\r\n",
+      "fileAbsolutePath": "C:/react/6stars/gatsby-starter-docs-material-ui/content/config-settings_glossary.md",
+      "fields": {
+        "date": null,
+        "slug": "config_settings_glossary",
+        "route": "/config/settings/glossary"
+      }
+    },
+    "69c5efa1-01dc-59c5-ac80-d719b74a9da3": {
+      "id": "69c5efa1-01dc-59c5-ac80-d719b74a9da3",
+      "children": [],
+      "parent": "1900a4cc-cabf-57b6-8f59-83b3467dd565",
+      "internal": {
+        "content": "\n\nSample API\n===\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "25cd08ab72f3e813af7ad54b2d32d12a",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "date": "default-site-plugin",
+          "slug": "default-site-plugin",
+          "route": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Sample Api",
+        "cover": "/upload/big-wave.jpg",
+        "description": "API DOC",
+        "date": "2019-01-02T06:00:00.000Z",
+        "route": "/api/sample-api",
+        "slug": "sample-api",
+        "category": "api",
+        "tags": [
+          "sample"
+        ],
+        "_PARENT": "1900a4cc-cabf-57b6-8f59-83b3467dd565"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n\nSample API\n===\n",
+      "fileAbsolutePath": "C:/react/6stars/gatsby-starter-docs-material-ui/content/api_sample-api.md",
+      "fields": {
+        "date": null,
+        "slug": "sample-api",
+        "route": "/api/sample-api"
+      }
+    },
+    "1e400cf0-186a-53f2-984b-688ff484e13d": {
+      "id": "1e400cf0-186a-53f2-984b-688ff484e13d",
+      "children": [],
+      "parent": "089d1345-96bc-5805-b397-be65613e586f",
+      "internal": {
+        "content": "\n<a name=\"headers\" class=\"anchor-link\" />\n\n## Headers\n\n```no-highlight\n# H1\n## H2\n### H3\n#### H4\n##### H5\n###### H6\n\nAlternatively, for H1 and H2, an underline-ish style:\n\nAlt-H1\n======\n\nAlt-H2\n------\n```\n\n# H1\n\n## H2\n\n### H3\n\n#### H4\n\n##### H5\n\n###### H6\n\nAlternatively, for H1 and H2, an underline-ish style:\n\n# Alt-H1\n\n## Alt-H2\n\n<a name=\"emphasis\" class=\"anchor-link\" />\n\n## Emphasis\n\n```no-highlight\nEmphasis, aka italics, with *asterisks* or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or __underscores__.\n\nCombined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n```\n\nEmphasis, aka italics, with _asterisks_ or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or **underscores**.\n\nCombined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n\n<a name=\"lists\" class=\"anchor-link\" />\n\n## Lists\n\n```no-highlight\n1. First ordered list item\n2. Another item\n  * Unordered sub-list.\n1. Actual numbers don't matter, just that it's a number\n  1. Ordered sub-list\n4. And another item.\n\n   Some text that should be aligned with the above item.\n\n* Unordered list can use asterisks\n- Or minuses\n+ Or pluses\n```\n\n1. First ordered list item\n2. Another item\n\n   - Unordered sub-list.\n\n3. Actual numbers don't matter, just that it's a number\n\n   1. Ordered sub-list\n\n4. And another item.\n\n   Some text that should be aligned with the above item.\n\n- Unordered list can use asterisks\n\n* Or minuses\n\n- Or pluses\n\n<a name=\"links\"/>\n\n## Links\n\nThere are two ways to create links.\n\n```no-highlight\n[I'm an inline-style link](https://www.google.com)\n\n[I'm a reference-style link][Arbitrary case-insensitive reference text]\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself]\n\nURLs and URLs in angle brackets will automatically get turned into links.\nhttp://www.example.com or <http://www.example.com> and sometimes\nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.mozilla.org\n[1]: http://slashdot.org\n[link text itself]: http://www.reddit.com\n```\n\n[I'm an inline-style link](https://www.google.com)\n\n[I'm a reference-style link][arbitrary case-insensitive reference text]\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself]\n\nURLs and URLs in angle brackets will automatically get turned into links.\nhttp://www.example.com or <http://www.example.com> and sometimes\nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.mozilla.org\n[1]: http://slashdot.org\n[link text itself]: http://www.reddit.com\n\n<a name=\"images\"/>\n\n## Images\n\n```no-highlight\nHere's our logo (hover to see the title text):\n\nInline-style:\n![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 1\")\n\nReference-style:\n![alt text][logo]\n\n[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 2\"\n```\n\nHere's our logo (hover to see the title text):\n\nInline-style:\n![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 1')\n\nReference-style:\n![alt text][logo]\n\n[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 2'\n\n<a name=\"code\"/>\n\n## Code and Syntax Highlighting\n\nCode blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and _Markdown Here_ -- support syntax highlighting. _Markdown Here_ supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).\n\n```no-highlight\nInline `code` has `back-ticks around` it.\n```\n\nInline `code` has `back-ticks around` it.\n\nBlocks of code are either fenced by lines with three back-ticks <code>```</code>, or are indented with four spaces. I recommend only using the fenced code blocks -- they're easier and only they support syntax highlighting.\n\n<pre lang=\"no-highlight\"><code>```javascript\nvar s = \"JavaScript syntax highlighting\";\nalert(s);\n```\n\n```python\ns = \"Python syntax highlighting\"\nprint s\n```\n\n```\nNo language indicated, so no syntax highlighting.\nBut let's throw in a &lt;b&gt;tag&lt;/b&gt;.\n```\n</code></pre>\n\n```javascript\nvar s = 'JavaScript syntax highlighting'\nalert(s)\n```\n\n```python\ns = \"Python syntax highlighting\"\nprint s\n```\n\n```\nNo language indicated, so no syntax highlighting in Markdown Here (varies on Github).\nBut let's throw in a <b>tag</b>.\n```\n\nAgain, to see what languages are available for highlighting, and how to write those language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).\n\n<a name=\"tables\"/>\n\n## Tables\n\nTables aren't part of the core Markdown spec, but they are part of GFM and _Markdown Here_ supports them. They are an easy way of adding tables to your email -- a task that would otherwise require copy-pasting from another application.\n\n```no-highlight\nColons can be used to align columns.\n\n| Tables        | Are           | Cool  |\n| ------------- | :-----------: | ----: |\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      | centered      | $12   |\n| zebra stripes | are neat      | $1    |\n\nThe outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.\n\n| | Markdown | Less           | Pretty     |     |\n| | ------------- | --------------- | ---------- |------- |\n| | *Still*   | `renders` | **nicely** | |\n| | 1               | 2                 | 3          |          |\n```\n\nColons can be used to align columns.\n\n| Tables        |      Are      |   Cool |\n| ------------- | :-----------: | -----: |\n| col 3 is      | right-aligned | \\$1600 |\n| col 2 is      |   centered    |   \\$12 |\n| zebra stripes |   are neat    |    \\$1 |\n\nThe outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.\n\n| Markdown | Less      | Pretty     |\n| -------- | --------- | ---------- |\n| _Still_  | `renders` | **nicely** |\n| 1        | 2         | 3          |\n\n<a name=\"blockquotes\"/>\n\n## Blockquotes\n\n```no-highlight\n> Blockquotes are very handy in email to emulate reply text.\n> This line is part of the same quote.\n\nQuote break.\n\n> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.\n```\n\n> Blockquotes are very handy in email to emulate reply text.\n> This line is part of the same quote.\n\nQuote break.\n\n> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.\n\n<a name=\"html\"/>\n\n## Inline HTML\n\nYou can also use raw HTML in your Markdown, and it'll mostly work pretty well.\n\n```no-highlight\n<dl>\n  <dt>Definition list</dt>\n  <dd>Is something people use sometimes.</dd>\n\n  <dt>Markdown in HTML</dt>\n  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>\n</dl>\n```\n\n<dl>\n  <dt>Definition list</dt>\n  <dd>Is something people use sometimes.</dd>\n\n  <dt>Markdown in HTML</dt>\n  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>\n</dl>\n\n<a name=\"hr\"/>\n\n## Horizontal Rule\n\n```\nThree or more...\n\n---\n\nHyphens\n\n***\n\nAsterisks\n\n___\n\nUnderscores\n```\n\nThree or more...\n\n---\n\nHyphens\n\n---\n\nAsterisks\n\n---\n\nUnderscores\n\n<a name=\"lines\"/>\n\n## Line Breaks\n\nMy basic recommendation for learning how line breaks work is to experiment and discover -- hit &lt;Enter&gt; once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You'll soon learn to get what you want. \"Markdown Toggle\" is your friend.\n\nHere are some things to try out:\n\n```\nHere's a line for us to start with.\n\nThis line is separated from the one above by two newlines, so it will be a *separate paragraph*.\n\nThis line is also a separate paragraph, but...\nThis line is only separated by a single newline, so it's a separate line in the *same paragraph*.\n```\n\nHere's a line for us to start with.\n\nThis line is separated from the one above by two newlines, so it will be a _separate paragraph_.\n\nThis line is also begins a separate paragraph, but...\nThis line is only separated by a single newline, so it's a separate line in the _same paragraph_.\n\n(Technical note: _Markdown Here_ uses GFM line breaks, so there's no need to use MD's two-space line breaks.)\n\n<a name=\"videos\"/>\n\n## YouTube Videos\n\n```no-highlight\n`youtube:https://www.youtube.com/embed/2Xc9gXyf2G4`\n```\n\n`youtube:https://www.youtube.com/embed/2Xc9gXyf2G4`\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "af20be3874a586aeafa7ebf87cbf83e1",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "date": "default-site-plugin",
+          "slug": "default-site-plugin",
+          "route": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Sample Guide",
+        "cover": "/upload/cat.jpg",
+        "description": "A Sample Guide for Markdown Syntax to Create Docs",
+        "date": "2019-01-07T06:00:00.000Z",
+        "route": "/guides/sample-guide",
+        "slug": "guides_sample-guide",
+        "category": "guide",
+        "tags": [
+          "sample"
+        ],
+        "_PARENT": "089d1345-96bc-5805-b397-be65613e586f"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n<a name=\"headers\" class=\"anchor-link\" />\n\n## Headers\n\n```no-highlight\n# H1\n## H2\n### H3\n#### H4\n##### H5\n###### H6\n\nAlternatively, for H1 and H2, an underline-ish style:\n\nAlt-H1\n======\n\nAlt-H2\n------\n```\n\n# H1\n\n## H2\n\n### H3\n\n#### H4\n\n##### H5\n\n###### H6\n\nAlternatively, for H1 and H2, an underline-ish style:\n\n# Alt-H1\n\n## Alt-H2\n\n<a name=\"emphasis\" class=\"anchor-link\" />\n\n## Emphasis\n\n```no-highlight\nEmphasis, aka italics, with *asterisks* or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or __underscores__.\n\nCombined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n```\n\nEmphasis, aka italics, with _asterisks_ or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or **underscores**.\n\nCombined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n\n<a name=\"lists\" class=\"anchor-link\" />\n\n## Lists\n\n```no-highlight\n1. First ordered list item\n2. Another item\n  * Unordered sub-list.\n1. Actual numbers don't matter, just that it's a number\n  1. Ordered sub-list\n4. And another item.\n\n   Some text that should be aligned with the above item.\n\n* Unordered list can use asterisks\n- Or minuses\n+ Or pluses\n```\n\n1. First ordered list item\n2. Another item\n\n   - Unordered sub-list.\n\n3. Actual numbers don't matter, just that it's a number\n\n   1. Ordered sub-list\n\n4. And another item.\n\n   Some text that should be aligned with the above item.\n\n- Unordered list can use asterisks\n\n* Or minuses\n\n- Or pluses\n\n<a name=\"links\"/>\n\n## Links\n\nThere are two ways to create links.\n\n```no-highlight\n[I'm an inline-style link](https://www.google.com)\n\n[I'm a reference-style link][Arbitrary case-insensitive reference text]\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself]\n\nURLs and URLs in angle brackets will automatically get turned into links.\nhttp://www.example.com or <http://www.example.com> and sometimes\nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.mozilla.org\n[1]: http://slashdot.org\n[link text itself]: http://www.reddit.com\n```\n\n[I'm an inline-style link](https://www.google.com)\n\n[I'm a reference-style link][arbitrary case-insensitive reference text]\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself]\n\nURLs and URLs in angle brackets will automatically get turned into links.\nhttp://www.example.com or <http://www.example.com> and sometimes\nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.mozilla.org\n[1]: http://slashdot.org\n[link text itself]: http://www.reddit.com\n\n<a name=\"images\"/>\n\n## Images\n\n```no-highlight\nHere's our logo (hover to see the title text):\n\nInline-style:\n![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 1\")\n\nReference-style:\n![alt text][logo]\n\n[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 2\"\n```\n\nHere's our logo (hover to see the title text):\n\nInline-style:\n![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 1')\n\nReference-style:\n![alt text][logo]\n\n[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 2'\n\n<a name=\"code\"/>\n\n## Code and Syntax Highlighting\n\nCode blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and _Markdown Here_ -- support syntax highlighting. _Markdown Here_ supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).\n\n```no-highlight\nInline `code` has `back-ticks around` it.\n```\n\nInline `code` has `back-ticks around` it.\n\nBlocks of code are either fenced by lines with three back-ticks <code>```</code>, or are indented with four spaces. I recommend only using the fenced code blocks -- they're easier and only they support syntax highlighting.\n\n<pre lang=\"no-highlight\"><code>```javascript\nvar s = \"JavaScript syntax highlighting\";\nalert(s);\n```\n\n```python\ns = \"Python syntax highlighting\"\nprint s\n```\n\n```\nNo language indicated, so no syntax highlighting.\nBut let's throw in a &lt;b&gt;tag&lt;/b&gt;.\n```\n</code></pre>\n\n```javascript\nvar s = 'JavaScript syntax highlighting'\nalert(s)\n```\n\n```python\ns = \"Python syntax highlighting\"\nprint s\n```\n\n```\nNo language indicated, so no syntax highlighting in Markdown Here (varies on Github).\nBut let's throw in a <b>tag</b>.\n```\n\nAgain, to see what languages are available for highlighting, and how to write those language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).\n\n<a name=\"tables\"/>\n\n## Tables\n\nTables aren't part of the core Markdown spec, but they are part of GFM and _Markdown Here_ supports them. They are an easy way of adding tables to your email -- a task that would otherwise require copy-pasting from another application.\n\n```no-highlight\nColons can be used to align columns.\n\n| Tables        | Are           | Cool  |\n| ------------- | :-----------: | ----: |\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      | centered      | $12   |\n| zebra stripes | are neat      | $1    |\n\nThe outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.\n\n| | Markdown | Less           | Pretty     |     |\n| | ------------- | --------------- | ---------- |------- |\n| | *Still*   | `renders` | **nicely** | |\n| | 1               | 2                 | 3          |          |\n```\n\nColons can be used to align columns.\n\n| Tables        |      Are      |   Cool |\n| ------------- | :-----------: | -----: |\n| col 3 is      | right-aligned | \\$1600 |\n| col 2 is      |   centered    |   \\$12 |\n| zebra stripes |   are neat    |    \\$1 |\n\nThe outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.\n\n| Markdown | Less      | Pretty     |\n| -------- | --------- | ---------- |\n| _Still_  | `renders` | **nicely** |\n| 1        | 2         | 3          |\n\n<a name=\"blockquotes\"/>\n\n## Blockquotes\n\n```no-highlight\n> Blockquotes are very handy in email to emulate reply text.\n> This line is part of the same quote.\n\nQuote break.\n\n> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.\n```\n\n> Blockquotes are very handy in email to emulate reply text.\n> This line is part of the same quote.\n\nQuote break.\n\n> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.\n\n<a name=\"html\"/>\n\n## Inline HTML\n\nYou can also use raw HTML in your Markdown, and it'll mostly work pretty well.\n\n```no-highlight\n<dl>\n  <dt>Definition list</dt>\n  <dd>Is something people use sometimes.</dd>\n\n  <dt>Markdown in HTML</dt>\n  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>\n</dl>\n```\n\n<dl>\n  <dt>Definition list</dt>\n  <dd>Is something people use sometimes.</dd>\n\n  <dt>Markdown in HTML</dt>\n  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>\n</dl>\n\n<a name=\"hr\"/>\n\n## Horizontal Rule\n\n```\nThree or more...\n\n---\n\nHyphens\n\n***\n\nAsterisks\n\n___\n\nUnderscores\n```\n\nThree or more...\n\n---\n\nHyphens\n\n---\n\nAsterisks\n\n---\n\nUnderscores\n\n<a name=\"lines\"/>\n\n## Line Breaks\n\nMy basic recommendation for learning how line breaks work is to experiment and discover -- hit &lt;Enter&gt; once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You'll soon learn to get what you want. \"Markdown Toggle\" is your friend.\n\nHere are some things to try out:\n\n```\nHere's a line for us to start with.\n\nThis line is separated from the one above by two newlines, so it will be a *separate paragraph*.\n\nThis line is also a separate paragraph, but...\nThis line is only separated by a single newline, so it's a separate line in the *same paragraph*.\n```\n\nHere's a line for us to start with.\n\nThis line is separated from the one above by two newlines, so it will be a _separate paragraph_.\n\nThis line is also begins a separate paragraph, but...\nThis line is only separated by a single newline, so it's a separate line in the _same paragraph_.\n\n(Technical note: _Markdown Here_ uses GFM line breaks, so there's no need to use MD's two-space line breaks.)\n\n<a name=\"videos\"/>\n\n## YouTube Videos\n\n```no-highlight\n`youtube:https://www.youtube.com/embed/2Xc9gXyf2G4`\n```\n\n`youtube:https://www.youtube.com/embed/2Xc9gXyf2G4`\n",
+      "fileAbsolutePath": "C:/react/6stars/gatsby-starter-docs-material-ui/content/guides_sample-guide.md",
+      "fields": {
+        "date": null,
+        "slug": "guides_sample-guide",
+        "route": "/guides/sample-guide"
+      }
+    },
+    "4a89134c-c9fd-595a-9e3f-6a6769e2f699": {
+      "id": "4a89134c-c9fd-595a-9e3f-6a6769e2f699",
+      "children": [],
+      "parent": "9a0a43c0-4300-51dc-82b4-2053d177503e",
+      "internal": {
+        "content": "\r\n## Learn in a Sandbox\r\n### [CodeSandbox](https://codesandbox.io/)\r\n## Learn Javascript\r\n### [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)\r\n\r\n1. [Up and Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)\r\n2. [Scope and Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)\r\n3. [_this_ & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)\r\n4. [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)\r\n5. [Benchmarking & Tuning](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch6.md)\r\n6. [Bulletproof javascript benchmarks](https://calendar.perfplanet.com/2010/bulletproof-javascript-benchmarks/)\r\n\r\n### [Javascript Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)\r\n## Learn React\r\n### React Developer Roadmap\r\n![](https://github.com/adam-golab/react-developer-roadmap/raw/master/roadmap.png)\r\n### React Courses\r\n* [Modern React with Redux](https://www.udemy.com/react-redux/)* [Server Side Rendering with React and Redux](https://www.udemy.com/server-side-rendering-with-react-and-redux/)* [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course/)\r\n### React Rendering\r\n{%youtube 7S8v8jfLb1Q %}\r\n### React Lifecycle\r\n![](https://i.imgur.com/ipSkur0.png)[Understanding React Component Lifeycle](https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d)\r\n### [React Cheatsheet](https://reactcheatsheet.com/)\r\n### [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)\r\n### [React Workshop Exercises](https://github.com/ReactTraining/react-workshop/tree/master/subjects)\r\n### React Router\r\n{%youtube Vur2dAFZ4GE %}\r\n{%youtube bUlkq3PDfRY %}\r\n## Learn Redux - Managing Application State\r\n### Redux Basics\r\n![](https://raw.githubusercontent.com/ReactTraining/react-workshop/master/slides/Redux.gif)\r\n### [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)### [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)\r\n### Redux Middlewares\r\n\r\n![](https://i.imgur.com/HVskLcj.gif)\r\n* ###### [Article: Redux 4 Ways](https://medium.com/react-native-training/redux-4-ways-95a130da0cdc)\r\n* ###### [Redux Thunk](https://github.com/gaearon/redux-thunk)\r\n* ###### [Redux Promise](https://github.com/pburtchaell/redux-promise-middleware)\r\n* [with Async Await](https://github.com/pburtchaell/redux-promise-middleware/blob/master/docs/guides/async-await.md)\r\n* ###### [Redux Saga](https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html)\r\n![](https://resizer.yalantis.com/w770/uploads/ckeditor/pictures/2602/content_002.jpg)\r\n* ###### [Redux Observable](https://github.com/redux-observable/redux-observable)\r\n{%youtube sF5-V-Szo0c %}\r\n\r\n\r\n## React Emerging Features & Patterns\r\n\r\n### [React Context API](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)\r\n\r\n\r\n### Server Side Rendering\r\n- Razzle & After.js- Next.js\r\n### [Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)\r\n##### [Sneak Peek](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html)\r\n##### [Understand React \"Suspense\"](https://medium.com/@baphemot/understanding-react-suspense-1c73b4b0b1e6)\r\n\r\n###### Dan Abramov: Beyond React 16 | JSConf Iceland 2018 `youtube:https://www.youtube.com/embed/nLF0n9SACd4`\r\n###### Andrew Clark: React Suspense `youtube:https://www.youtube.com/embed/z-6JC0_cOns`\r\n\r\n## React Native\r\n## GraphQL\r\n### [GraphQL](http://graphql.org/)\r\n- [How to GraphQL](https://www.howtographql.com/)\r\n- GRAPHCOOL & PRISMA\r\n    - [GRAPHCOOL](https://graph.cool) - Self-Hosted GraphQL BaaS    - [Prisma](https://www.prisma.io/) - Turn your database into a GraphQL API\r\n    - [How to deploy a Prisma cluster to AWS Fargate using Docker & CloudFormation](https://blog.graph.cool/how-to-deploy-a-prisma-cluster-to-aws-fargate-using-docker-cloudformation-293aa8727b89)\r\n    - Prisma Cloud — A GraphQL Database Platform    {%youtube jELE4KXJPn4 %}     - [AWS App Sync](https://aws.amazon.com/appsync/) - Build data-driven apps with real-time and offline capabilities![](https://d1.awsstatic.com/products/AWS-mobile/DeepDish/Flow_Diagrams_Reinvent_DeepDish_112617_CM_2.6baa23c6cda3a8510bfaff069f2375d955dd2ca6.png)     - [Resources](https://aws.amazon.com/appsync/resources/)    - [React Starter App](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react)    - Introduction to AWS AppSync and GraphQL    {%youtube olAPj6EIlag %}    \r\n\r\n- ###### [GraphQL Subscriptions](https://www.apollographql.com/docs/react/advanced/subscriptions.html)        {%youtube bn8qsi8jVew %}\r\n    {%youtube 1Fg_QtzI7SU %}\r\n\r\nhttps://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-aug-2018-a9f14bbda09\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "cb103c9f68ece3c624fc05d4fd126ee1",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "date": "default-site-plugin",
+          "slug": "default-site-plugin",
+          "route": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Learning GraphQL",
+        "cover": "/upload/valley.jpg",
+        "description": "A collection of resources for learning GraphQL",
+        "date": "2019-01-08T06:00:00.000Z",
+        "route": "/learn/graphql",
+        "slug": "learn_graphql",
+        "category": "learn",
+        "tags": [
+          "guide",
+          "graphql"
+        ],
+        "_PARENT": "9a0a43c0-4300-51dc-82b4-2053d177503e"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n## Learn in a Sandbox\r\n### [CodeSandbox](https://codesandbox.io/)\r\n## Learn Javascript\r\n### [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)\r\n\r\n1. [Up and Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)\r\n2. [Scope and Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)\r\n3. [_this_ & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)\r\n4. [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)\r\n5. [Benchmarking & Tuning](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch6.md)\r\n6. [Bulletproof javascript benchmarks](https://calendar.perfplanet.com/2010/bulletproof-javascript-benchmarks/)\r\n\r\n### [Javascript Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)\r\n## Learn React\r\n### React Developer Roadmap\r\n![](https://github.com/adam-golab/react-developer-roadmap/raw/master/roadmap.png)\r\n### React Courses\r\n* [Modern React with Redux](https://www.udemy.com/react-redux/)* [Server Side Rendering with React and Redux](https://www.udemy.com/server-side-rendering-with-react-and-redux/)* [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course/)\r\n### React Rendering\r\n{%youtube 7S8v8jfLb1Q %}\r\n### React Lifecycle\r\n![](https://i.imgur.com/ipSkur0.png)[Understanding React Component Lifeycle](https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d)\r\n### [React Cheatsheet](https://reactcheatsheet.com/)\r\n### [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)\r\n### [React Workshop Exercises](https://github.com/ReactTraining/react-workshop/tree/master/subjects)\r\n### React Router\r\n{%youtube Vur2dAFZ4GE %}\r\n{%youtube bUlkq3PDfRY %}\r\n## Learn Redux - Managing Application State\r\n### Redux Basics\r\n![](https://raw.githubusercontent.com/ReactTraining/react-workshop/master/slides/Redux.gif)\r\n### [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)### [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)\r\n### Redux Middlewares\r\n\r\n![](https://i.imgur.com/HVskLcj.gif)\r\n* ###### [Article: Redux 4 Ways](https://medium.com/react-native-training/redux-4-ways-95a130da0cdc)\r\n* ###### [Redux Thunk](https://github.com/gaearon/redux-thunk)\r\n* ###### [Redux Promise](https://github.com/pburtchaell/redux-promise-middleware)\r\n* [with Async Await](https://github.com/pburtchaell/redux-promise-middleware/blob/master/docs/guides/async-await.md)\r\n* ###### [Redux Saga](https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html)\r\n![](https://resizer.yalantis.com/w770/uploads/ckeditor/pictures/2602/content_002.jpg)\r\n* ###### [Redux Observable](https://github.com/redux-observable/redux-observable)\r\n{%youtube sF5-V-Szo0c %}\r\n\r\n\r\n## React Emerging Features & Patterns\r\n\r\n### [React Context API](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)\r\n\r\n\r\n### Server Side Rendering\r\n- Razzle & After.js- Next.js\r\n### [Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)\r\n##### [Sneak Peek](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html)\r\n##### [Understand React \"Suspense\"](https://medium.com/@baphemot/understanding-react-suspense-1c73b4b0b1e6)\r\n\r\n###### Dan Abramov: Beyond React 16 | JSConf Iceland 2018 `youtube:https://www.youtube.com/embed/nLF0n9SACd4`\r\n###### Andrew Clark: React Suspense `youtube:https://www.youtube.com/embed/z-6JC0_cOns`\r\n\r\n## React Native\r\n## GraphQL\r\n### [GraphQL](http://graphql.org/)\r\n- [How to GraphQL](https://www.howtographql.com/)\r\n- GRAPHCOOL & PRISMA\r\n    - [GRAPHCOOL](https://graph.cool) - Self-Hosted GraphQL BaaS    - [Prisma](https://www.prisma.io/) - Turn your database into a GraphQL API\r\n    - [How to deploy a Prisma cluster to AWS Fargate using Docker & CloudFormation](https://blog.graph.cool/how-to-deploy-a-prisma-cluster-to-aws-fargate-using-docker-cloudformation-293aa8727b89)\r\n    - Prisma Cloud — A GraphQL Database Platform    {%youtube jELE4KXJPn4 %}     - [AWS App Sync](https://aws.amazon.com/appsync/) - Build data-driven apps with real-time and offline capabilities![](https://d1.awsstatic.com/products/AWS-mobile/DeepDish/Flow_Diagrams_Reinvent_DeepDish_112617_CM_2.6baa23c6cda3a8510bfaff069f2375d955dd2ca6.png)     - [Resources](https://aws.amazon.com/appsync/resources/)    - [React Starter App](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react)    - Introduction to AWS AppSync and GraphQL    {%youtube olAPj6EIlag %}    \r\n\r\n- ###### [GraphQL Subscriptions](https://www.apollographql.com/docs/react/advanced/subscriptions.html)        {%youtube bn8qsi8jVew %}\r\n    {%youtube 1Fg_QtzI7SU %}\r\n\r\nhttps://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-aug-2018-a9f14bbda09\r\n",
+      "fileAbsolutePath": "C:/react/6stars/gatsby-starter-docs-material-ui/content/learn_graphql.md",
+      "fields": {
+        "date": null,
+        "slug": "learn_graphql",
+        "route": "/learn/graphql"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "e00a5520f0f39766327b382e97387a41"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/api/sample-api",
+        "/config/settings/glossary",
+        "/guides/sample-guide",
+        "/learn/javascript",
+        "/learn/graphql",
+        "/learn/react",
+        "sq--src-layout-doc-js",
+        "sq--src-layout-index-js"
+      ],
+      "69c5efa1-01dc-59c5-ac80-d719b74a9da3": [
+        "/api/sample-api"
+      ],
+      "11f51234-9f00-5724-b183-791f71a90cd9": [
+        "/config/settings/glossary"
+      ],
+      "1e400cf0-186a-53f2-984b-688ff484e13d": [
+        "/guides/sample-guide"
+      ],
+      "3ef74833-7cff-5622-af56-14b71339cd5c": [
+        "/learn/javascript"
+      ],
+      "4a89134c-c9fd-595a-9e3f-6a6769e2f699": [
+        "/learn/graphql"
+      ],
+      "1d5209e7-a372-5c7e-9be0-9827ad475bec": [
+        "/learn/react"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        null,
+        "/",
+        "/tags/sample/",
+        "/tags/table/",
+        "/tags/guide/",
+        "/tags/javacript/",
+        "/tags/graphql/",
+        "/tags/react/",
+        "/categories/api/",
+        "/categories/config/",
+        "/categories/guide/",
+        "/categories/learn/",
+        null
+      ],
+      "SitePage": [
+        "/",
+        "/tags/sample/",
+        "/tags/table/",
+        "/tags/guide/",
+        "/tags/javacript/",
+        "/tags/graphql/",
+        "/tags/react/",
+        "/api/sample-api",
+        "/config/settings/glossary",
+        "/guides/sample-guide",
+        "/learn/javascript",
+        "/learn/graphql",
+        "/learn/react",
+        "/categories/api/",
+        "/categories/config/",
+        "/categories/guide/",
+        "/categories/learn/"
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "sq--src-layout-index-js": 32885583,
+    "sq--src-layout-doc-js": 755544856,
+    "index": "253/path---index-6a9-gQGfsuRQC8Jr1fXc4FbuI9qXqZ4",
+    "tags-sample-369": "383/path---tags-sample-369-d6f-V1Gc7s58zRBm5LWADQST5inic",
+    "tags-table-a44": "566/path---tags-table-a-44-ee8-8E9IKcNDPFBrPvSOqH7YtzV7QI",
+    "tags-guide-2a1": "301/path---tags-guide-2-a-1-a96-6PeaThK9GkoCa7aj8eFt0Tm0HfM",
+    "tags-javacript-73e": "329/path---tags-javacript-73-e-ff1-UGeeMqUj7VFGo0ulUv5kVJlA9Rw",
+    "tags-graphql-f78": "365/path---tags-graphql-f-78-5e9-H1jYaUeIacJViYq8iWujkoroKeY",
+    "tags-react-490": "576/path---tags-react-490-1eb-W0IQlHHM1Gp7EO9P35FRs2kUtc",
+    "api-sample-api-add": "314/path---api-sample-api-add-94c-b7g449sFQSk0tK4bdjiDhrk4hs",
+    "config-settings-glossary-61c": "119/path---config-settings-glossary-61-c-f3f-M6YC9oToxMClHZx1JJ0MCqro6CM",
+    "guides-sample-guide-f4c": "684/path---guides-sample-guide-f-4-c-4e7-y1JwEA74VWbjWNkQAJVcan9Yc",
+    "learn-javascript-cdb": "642/path---learn-javascript-cdb-eff-qNk2YtxSpWcrxcYYX9Ueu0v3ms",
+    "learn-graphql-410": "732/path---learn-graphql-410-609-nAniDK3kqcqkW814ORtkdqU9M",
+    "learn-react-413": "818/path---learn-react-413-39d-tnAiH3Eoiz7fojgk2SbzCHlrU",
+    "categories-api-5bf": "138/path---categories-api-5-bf-18b-cnYUwrvBXW8ux5DGC9Tw6Z3276o",
+    "categories-config-f8b": "38/path---categories-config-f-8-b-4da-XWDRCgfYKtrJSNEqNM5YnMnBYU",
+    "categories-guide-f3e": "653/path---categories-guide-f-3-e-e86-CE1GinGD9cOuZgcSt6a0a5sCavs",
+    "offline-plugin-app-shell-fallback-a30": "520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E",
+    "categories-learn-e44": "404/path---categories-learn-e-44-fcd-nQBJNyCCUkmRY4zwdpGutwBHVuY",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E"
+  },
+  "components": {
+    "C:/react/6stars/gatsby-starter-docs-material-ui/src/pages/index.js": {
+      "query": "query IndexQuery(\n  $route: String\n) {\n  ...navTree\n  allMarkdownRemark(limit: 2000) {\n    edges {\n      node {\n        fields {\n          slug\n          route\n        }\n        excerpt\n        timeToRead\n        frontmatter {\n          title\n          description\n          tags\n          category\n          rawDate: date\n          cover\n        }\n      }\n    }\n  }\n}\n\nfragment navTree on Query {\n  currentPage: allSitePage(filter: {path: {eq: $route}}) {\n    edges {\n      node {\n        tree\n        path\n        context {\n          title\n          category\n          slug\n          route\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/pages/index.js"
+    },
+    "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/doc.js": {
+      "query": "query DocByRoute(\n  $route: String!\n) {\n  ...navTree\n  site {\n    siteMetadata {\n      title\n    }\n  }\n  markdownRemark(fields: {route: {eq: $route}}) {\n    html\n    tableOfContents(pathToSlugField: \"fields.route\")\n    timeToRead\n    excerpt\n    frontmatter {\n      title\n      rawDate: date\n      category\n      tags\n    }\n    fields {\n      route\n      slug\n    }\n  }\n}\n\nfragment navTree on Query {\n  currentPage: allSitePage(filter: {path: {eq: $route}}) {\n    edges {\n      node {\n        tree\n        path\n        context {\n          title\n          category\n          slug\n          route\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/doc.js"
+    },
+    "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/tag.js": {
+      "query": "query TagPage(\n  $route: String!\n  $tag: String\n) {\n  ...navTree\n  allMarkdownRemark(limit: 1000, filter: {frontmatter: {tags: {in: [$tag]}}}) {\n    totalCount\n    edges {\n      node {\n        fields {\n          route\n          slug\n        }\n        excerpt\n        timeToRead\n        frontmatter {\n          title\n          description\n          tags\n          category\n          rawDate: date\n          cover\n        }\n      }\n    }\n  }\n}\n\nfragment navTree on Query {\n  currentPage: allSitePage(filter: {path: {eq: $route}}) {\n    edges {\n      node {\n        tree\n        path\n        context {\n          title\n          category\n          slug\n          route\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/tag.js"
+    },
+    "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/category.js": {
+      "query": "query CategoryPage(\n  $route: String!\n  $category: String\n) {\n  ...navTree\n  allMarkdownRemark(limit: 1000, filter: {frontmatter: {category: {eq: $category}}}) {\n    totalCount\n    edges {\n      node {\n        fields {\n          route\n          slug\n        }\n        excerpt\n        timeToRead\n        frontmatter {\n          title\n          description\n          tags\n          category\n          rawDate: date\n          cover\n        }\n      }\n    }\n  }\n}\n\nfragment navTree on Query {\n  currentPage: allSitePage(filter: {path: {eq: $route}}) {\n    edges {\n      node {\n        tree\n        path\n        context {\n          title\n          category\n          slug\n          route\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/templates/category.js"
+    },
+    "C:/react/6stars/gatsby-starter-docs-material-ui/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/.cache/dev-404-page.js"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-layout-index-js": {
+      "name": "DocSiteTitleQuery",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/layout/index.js",
+      "id": "sq--src-layout-index-js",
+      "jsonName": "sq--src-layout-index-js",
+      "query": "query DocSiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 32885583
+    },
+    "sq--src-layout-doc-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "C:/react/6stars/gatsby-starter-docs-material-ui/src/layout/doc.js",
+      "id": "sq--src-layout-doc-js",
+      "jsonName": "sq--src-layout-doc-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
+    }
+  }
+}

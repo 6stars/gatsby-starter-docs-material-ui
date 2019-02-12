@@ -1,0 +1,92 @@
+[
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-templates-doc-js",
+        "jsonName": "api-sample-api-add",
+        "path": "/api/sample-api"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-js",
+        "jsonName": "categories-api-5bf",
+        "path": "/categories/api/"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-js",
+        "jsonName": "categories-config-f8b",
+        "path": "/categories/config/"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-js",
+        "jsonName": "categories-guide-f3e",
+        "path": "/categories/guide/"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-js",
+        "jsonName": "categories-learn-e44",
+        "path": "/categories/learn/"
+    },
+    {
+        "componentChunkName": "component---src-templates-doc-js",
+        "jsonName": "config-settings-glossary-61c",
+        "path": "/config/settings/glossary"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page-5f9",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-templates-doc-js",
+        "jsonName": "guides-sample-guide-f4c",
+        "path": "/guides/sample-guide"
+    },
+    {
+        "componentChunkName": "component---src-templates-doc-js",
+        "jsonName": "learn-graphql-410",
+        "path": "/learn/graphql"
+    },
+    {
+        "componentChunkName": "component---src-templates-doc-js",
+        "jsonName": "learn-javascript-cdb",
+        "path": "/learn/javascript"
+    },
+    {
+        "componentChunkName": "component---src-templates-doc-js",
+        "jsonName": "learn-react-413",
+        "path": "/learn/react"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-js",
+        "jsonName": "tags-graphql-f78",
+        "path": "/tags/graphql/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-js",
+        "jsonName": "tags-guide-2a1",
+        "path": "/tags/guide/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-js",
+        "jsonName": "tags-javacript-73e",
+        "path": "/tags/javacript/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-js",
+        "jsonName": "tags-react-490",
+        "path": "/tags/react/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-js",
+        "jsonName": "tags-sample-369",
+        "path": "/tags/sample/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-js",
+        "jsonName": "tags-table-a44",
+        "path": "/tags/table/"
+    }
+]

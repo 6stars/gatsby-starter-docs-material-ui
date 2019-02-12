@@ -1,6 +1,6 @@
 ---
 title: Sample Table Glossary
-cover: /upload/contemplative-reptile.jpg
+cover: /upload/windy-road.jpg
 description: A Sample Table Based Doc
 date: 2019-01-02T06:00:00.000Z
 route: /config/settings/glossary
