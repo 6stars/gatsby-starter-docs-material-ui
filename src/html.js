@@ -1,5 +1,5 @@
-import React from 'react'
-import PropTypes from 'prop-types'
+import React from 'react';
+import PropTypes from 'prop-types';
 
 // You can find a benchmark of the available CSS minifiers under
 // https://github.com/GoalSmashers/css-minification-benchmark
@@ -8,15 +8,15 @@ import PropTypes from 'prop-types'
 // 4% slower but 12% smaller output than doing it in a single step.
 //
 // It's using .browserslistrc
-let prefixer
-let cleanCSS
+let prefixer;
+let cleanCSS;
 if (process.env.NODE_ENV === 'production') {
-  const postcss = require('postcss')
-  const autoprefixer = require('autoprefixer')
-  const CleanCSS = require('clean-css')
+  const postcss = require('postcss');
+  const autoprefixer = require('autoprefixer');
+  const CleanCSS = require('clean-css');
 
-  prefixer = postcss([autoprefixer])
-  cleanCSS = new CleanCSS()
+  prefixer = postcss([autoprefixer]);
+  cleanCSS = new CleanCSS();
 }
 
 export default class HTML extends React.Component {
@@ -107,14 +107,7 @@ export default class HTML extends React.Component {
             dangerouslySetInnerHTML={{ __html: this.props.body }}
           />
           {this.props.postBodyComponents}
-          <script
-            async
-            src="https://cdn.jsdelivr.net/docsearch.js/2/docsearch.min.js"
-          />
-          <script
-            type="text/javascript"
-            src="https://cdn.jsdelivr.net/algoliasearch/3.10.2/algoliasearch.min.js"
-          />
+
           <noscript>
             <div>
               <p>Please enable javascript to access ****** DOCS</p>
@@ -122,7 +115,7 @@ export default class HTML extends React.Component {
           </noscript>
         </body>
       </html>
-    )
+    );
   }
 }
 
@@ -133,4 +126,4 @@ HTML.propTypes = {
   preBodyComponents: PropTypes.array,
   body: PropTypes.string,
   postBodyComponents: PropTypes.array,
-}
+};

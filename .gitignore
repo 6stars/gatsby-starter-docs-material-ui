@@ -59,3 +59,15 @@ typings/
 
 # next.js build output
 .next
+
+# Build Files
+/**/**/public/
+/**/**/.cache/
+/**/**/lib/
+/**/**/build/
+
+# Build Files
+/public/
+/.cache/
+/lib/
+/build/

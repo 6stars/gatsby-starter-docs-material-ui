@@ -1,13 +1,13 @@
 ---
-title: Sample Guide
+title: Sample Markdown Doc
 cover: /upload/cat.jpg
 description: A Sample Guide for Markdown Syntax to Create Docs
 date: 2019-01-07T06:00:00.000Z
 route: /guides/sample-guide
 slug: guides_sample-guide
-category: guide
+category: markdown
 tags:
-  - sample
+  - guide
 ---
 
 <a name="headers" class="anchor-link" />
@@ -210,8 +210,8 @@ But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
 </code></pre>
 
 ```javascript
-var s = 'JavaScript syntax highlighting'
-alert(s)
+var s = 'JavaScript syntax highlighting';
+alert(s);
 ```
 
 ```python

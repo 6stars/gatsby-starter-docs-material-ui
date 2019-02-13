@@ -1,12 +1,12 @@
-const config = require('./data/SiteConfig')
-const iconsConfig = require('./static/icons.json')
-const urljoin = require('url-join')
+const config = require('./data/SiteConfig');
+const iconsConfig = require('./static/icons.json');
+const urljoin = require('url-join');
 
-const regexExcludeRobots = /^(?!\/(dev-404-page|404|offline-plugin-app-shell-fallback|tags|categories)).*$/
+const regexExcludeRobots = /^(?!\/(dev-404-page|404|offline-plugin-app-shell-fallback|tags|categories)).*$/;
 
 require('dotenv').config({
   path: `.env.${process.env.NODE_ENV}`,
-})
+});
 
 const allDocsPageQuery = `{
   allMarkdownRemark(	
@@ -33,7 +33,7 @@ const allDocsPageQuery = `{
       }	
     }	
   }
-}`
+}`;
 
 const queries = [
   {
@@ -42,7 +42,7 @@ const queries = [
       data.allMarkdownRemark.edges.map(({ node }) => node), // optional
     indexName: 'docs-', // overrides main index name, optional
   },
-]
+];
 
 module.exports = {
   pathPrefix: config.pathPrefix,
@@ -163,7 +163,7 @@ module.exports = {
         short_name: config.siteTitleShort,
         description: config.siteDescription,
         start_url: config.pathPrefix,
-        background_color: '#334058',
+        background_color: '#000000',
         theme_color: '#6ec5ff',
         display: 'standalone',
         icons: iconsConfig.icons,
@@ -190,4 +190,4 @@ module.exports = {
     // },
     // make sure to put last in the array
   ],
-}
+};
